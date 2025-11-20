@@ -1,0 +1,80 @@
+{
+  "etudiants": {
+    "Samuel Mercier": [
+      "Institut Catholique de l'Ouest (ICO)",
+      "Université de Caen Normandie",
+      "Université de Pau et des Pays de l'Adour (UPPA)"
+    ],
+    "Clément Bébou": [
+      "Université de Caen Normandie",
+      "Université de Pau et des Pays de l'Adour (UPPA)",
+      "Institut Catholique de l'Ouest (ICO)"
+    ],
+    "David Benoît": [
+      "Institut Catholique de l'Ouest (ICO)",
+      "Université de Caen Normandie",
+      "Université de Pau et des Pays de l'Adour (UPPA)"
+    ]
+  },
+  "etablissements": {
+    "Institut Catholique de l'Ouest (ICO)": [
+      "Samuel Mercier",
+      "David Benoît",
+      "Clément Bébou"
+    ],
+    "Université de Pau et des Pays de l'Adour (UPPA)": [
+      "Samuel Mercier",
+      "Clément Bébou",
+      "David Benoît"
+    ],
+    "Université de Caen Normandie": [
+      "Samuel Mercier",
+      "David Benoît",
+      "Clément Bébou"
+    ]
+  },
+  "capacites": {
+    "Institut Catholique de l'Ouest (ICO)": 1,
+    "Université de Pau et des Pays de l'Adour (UPPA)": 1,
+    "Université de Caen Normandie": 1
+  },
+  "matching_student_optimal": {
+    "Institut Catholique de l'Ouest (ICO)": [
+      "Samuel Mercier"
+    ],
+    "Université de Pau et des Pays de l'Adour (UPPA)": [
+      "Clément Bébou"
+    ],
+    "Université de Caen Normandie": [
+      "David Benoît"
+    ]
+  },
+  "matching_university_optimal": {
+    "Institut Catholique de l'Ouest (ICO)": [
+      "Samuel Mercier"
+    ],
+    "Université de Pau et des Pays de l'Adour (UPPA)": [
+      "Clément Bébou"
+    ],
+    "Université de Caen Normandie": [
+      "David Benoît"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.8666666666666667,
+      "uni": 0.8666666666666667,
+      "global": 0.8666666666666667
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.8666666666666667,
+      "uni": 0.8666666666666667,
+      "global": 0.8666666666666667
+    },
+    "university_optimal": {
+      "etu": 0.8666666666666667,
+      "uni": 0.8666666666666667,
+      "global": 0.8666666666666667
+    }
+  }
+}

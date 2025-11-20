@@ -1,0 +1,392 @@
+{
+  "etudiants": {
+    "Timothée Thomas": [
+      "Université Grenoble Alpes (UGA)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris Nanterre",
+      "Université de Lille",
+      "Institut Catholique de Lille (ICL)",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Rouen Normandie",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Sorbonne Paris Nord",
+      "Université des Antilles"
+    ],
+    "Tiffany Gaillard": [
+      "Université des Antilles",
+      "Université Paris Nanterre",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Sorbonne Paris Nord",
+      "Institut Catholique de Lille (ICL)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Rouen Normandie",
+      "Université de Lille",
+      "Université Grenoble Alpes (UGA)"
+    ],
+    "David Benoît": [
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Institut Catholique de Lille (ICL)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université de Rouen Normandie",
+      "Université Sorbonne Paris Nord",
+      "Université de Lille",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Grenoble Alpes (UGA)",
+      "Université Paris Nanterre",
+      "Université des Antilles",
+      "Université Paris 2 Panthéon-Assas"
+    ],
+    "Lucas Martin": [
+      "Université Paris 2 Panthéon-Assas",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris Nanterre",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Lille",
+      "Université de Rouen Normandie",
+      "Université Sorbonne Paris Nord",
+      "Institut Catholique de Lille (ICL)",
+      "Université des Antilles"
+    ],
+    "Tom Nicolas": [
+      "Université de Rouen Normandie",
+      "Université Paris Nanterre",
+      "Université Paris 2 Panthéon-Assas",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université des Antilles",
+      "Université Sorbonne Paris Nord",
+      "Institut Catholique de Lille (ICL)",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université de Lille",
+      "Université Grenoble Alpes (UGA)"
+    ],
+    "Éric Wagner": [
+      "Université de Lille",
+      "Université Grenoble Alpes (UGA)",
+      "Université des Antilles",
+      "Université Sorbonne Paris Nord",
+      "Université de Rouen Normandie",
+      "Université Paris 2 Panthéon-Assas",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris Nanterre",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Institut Catholique de Lille (ICL)"
+    ],
+    "Louis Leroy": [
+      "Université Grenoble Alpes (UGA)",
+      "Université Paris Nanterre",
+      "Institut Catholique de Lille (ICL)",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université de Lille",
+      "Université Paris 2 Panthéon-Assas",
+      "Université Sorbonne Paris Nord",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Rouen Normandie",
+      "Université des Antilles"
+    ],
+    "Adrien Lefebvre": [
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Paris Nanterre",
+      "Institut Catholique de Lille (ICL)",
+      "Université des Antilles",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Rouen Normandie",
+      "Université Toulouse III - Paul Sabatier",
+      "Université de Lille",
+      "Université Sorbonne Paris Nord",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Paris 2 Panthéon-Assas"
+    ],
+    "Jeanne Leblanc": [
+      "Institut Catholique de Lille (ICL)",
+      "Université des Antilles",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Grenoble Alpes (UGA)",
+      "Université Paris Nanterre",
+      "Université Sorbonne Paris Nord",
+      "Université de Rouen Normandie",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris 2 Panthéon-Assas",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université de Lille"
+    ],
+    "Juliette Bernard": [
+      "Université Grenoble Alpes (UGA)",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris 2 Panthéon-Assas",
+      "Institut Catholique de Lille (ICL)",
+      "Université des Antilles",
+      "Université de Lille",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Rouen Normandie",
+      "Université Sorbonne Paris Nord",
+      "Université Paris Nanterre"
+    ],
+    "Alexandre Gautier": [
+      "Université Sorbonne Paris Nord",
+      "Université de Rouen Normandie",
+      "Université de Lille",
+      "Université Toulouse III - Paul Sabatier",
+      "Université Paris Nanterre",
+      "Institut Catholique de Lille (ICL)",
+      "Université des Antilles",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Paris 2 Panthéon-Assas",
+      "Université Grenoble Alpes (UGA)"
+    ]
+  },
+  "etablissements": {
+    "Université de Lille": [
+      "Jeanne Leblanc",
+      "Tom Nicolas",
+      "Adrien Lefebvre",
+      "Lucas Martin",
+      "Louis Leroy",
+      "Alexandre Gautier",
+      "Tiffany Gaillard",
+      "Juliette Bernard",
+      "Éric Wagner",
+      "Timothée Thomas",
+      "David Benoît"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Timothée Thomas",
+      "Louis Leroy",
+      "Tom Nicolas",
+      "Éric Wagner",
+      "Lucas Martin",
+      "David Benoît",
+      "Tiffany Gaillard",
+      "Jeanne Leblanc",
+      "Alexandre Gautier",
+      "Juliette Bernard",
+      "Adrien Lefebvre"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Tiffany Gaillard",
+      "Tom Nicolas",
+      "Juliette Bernard",
+      "Jeanne Leblanc",
+      "Timothée Thomas",
+      "David Benoît",
+      "Alexandre Gautier",
+      "Louis Leroy",
+      "Éric Wagner",
+      "Adrien Lefebvre",
+      "Lucas Martin"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Éric Wagner",
+      "Tom Nicolas",
+      "Lucas Martin",
+      "Louis Leroy",
+      "Tiffany Gaillard",
+      "Adrien Lefebvre",
+      "Alexandre Gautier",
+      "Juliette Bernard",
+      "David Benoît",
+      "Jeanne Leblanc",
+      "Timothée Thomas"
+    ],
+    "Université Toulouse III - Paul Sabatier": [
+      "Jeanne Leblanc",
+      "Louis Leroy",
+      "Tiffany Gaillard",
+      "Adrien Lefebvre",
+      "Éric Wagner",
+      "Timothée Thomas",
+      "Juliette Bernard",
+      "Tom Nicolas",
+      "Lucas Martin",
+      "David Benoît",
+      "Alexandre Gautier"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Alexandre Gautier",
+      "Louis Leroy",
+      "Jeanne Leblanc",
+      "Timothée Thomas",
+      "David Benoît",
+      "Juliette Bernard",
+      "Tom Nicolas",
+      "Lucas Martin",
+      "Éric Wagner",
+      "Tiffany Gaillard",
+      "Adrien Lefebvre"
+    ],
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Tiffany Gaillard",
+      "Adrien Lefebvre",
+      "Timothée Thomas",
+      "Jeanne Leblanc",
+      "Éric Wagner",
+      "Lucas Martin",
+      "Louis Leroy",
+      "David Benoît",
+      "Juliette Bernard",
+      "Alexandre Gautier",
+      "Tom Nicolas"
+    ],
+    "Université de Rouen Normandie": [
+      "David Benoît",
+      "Jeanne Leblanc",
+      "Timothée Thomas",
+      "Juliette Bernard",
+      "Louis Leroy",
+      "Tiffany Gaillard",
+      "Lucas Martin",
+      "Tom Nicolas",
+      "Alexandre Gautier",
+      "Adrien Lefebvre",
+      "Éric Wagner"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Juliette Bernard",
+      "Jeanne Leblanc",
+      "Louis Leroy",
+      "Alexandre Gautier",
+      "David Benoît",
+      "Tiffany Gaillard",
+      "Adrien Lefebvre",
+      "Timothée Thomas",
+      "Lucas Martin",
+      "Éric Wagner",
+      "Tom Nicolas"
+    ],
+    "Université des Antilles": [
+      "Timothée Thomas",
+      "Alexandre Gautier",
+      "Tiffany Gaillard",
+      "Adrien Lefebvre",
+      "Éric Wagner",
+      "Juliette Bernard",
+      "Tom Nicolas",
+      "Louis Leroy",
+      "Lucas Martin",
+      "Jeanne Leblanc",
+      "David Benoît"
+    ],
+    "Université Paris Nanterre": [
+      "David Benoît",
+      "Timothée Thomas",
+      "Tiffany Gaillard",
+      "Jeanne Leblanc",
+      "Juliette Bernard",
+      "Tom Nicolas",
+      "Lucas Martin",
+      "Alexandre Gautier",
+      "Louis Leroy",
+      "Adrien Lefebvre",
+      "Éric Wagner"
+    ]
+  },
+  "capacites": {
+    "Université de Lille": 1,
+    "Université Sorbonne Paris Nord": 1,
+    "Université Paris 2 Panthéon-Assas": 1,
+    "Université Grenoble Alpes (UGA)": 1,
+    "Université Toulouse III - Paul Sabatier": 1,
+    "Institut Catholique de Lille (ICL)": 1,
+    "Conservatoire National des Arts et Métiers (CNAM)": 1,
+    "Université de Rouen Normandie": 1,
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": 1,
+    "Université des Antilles": 1,
+    "Université Paris Nanterre": 1
+  },
+  "matching_student_optimal": {
+    "Université de Lille": [
+      "Éric Wagner"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Alexandre Gautier"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Juliette Bernard"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Louis Leroy"
+    ],
+    "Université Toulouse III - Paul Sabatier": [
+      "Adrien Lefebvre"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Jeanne Leblanc"
+    ],
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Lucas Martin"
+    ],
+    "Université de Rouen Normandie": [
+      "Tom Nicolas"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "David Benoît"
+    ],
+    "Université des Antilles": [
+      "Tiffany Gaillard"
+    ],
+    "Université Paris Nanterre": [
+      "Timothée Thomas"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université de Lille": [
+      "Adrien Lefebvre"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Louis Leroy"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Tom Nicolas"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Éric Wagner"
+    ],
+    "Université Toulouse III - Paul Sabatier": [
+      "Jeanne Leblanc"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Alexandre Gautier"
+    ],
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Lucas Martin"
+    ],
+    "Université de Rouen Normandie": [
+      "David Benoît"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Juliette Bernard"
+    ],
+    "Université des Antilles": [
+      "Tiffany Gaillard"
+    ],
+    "Université Paris Nanterre": [
+      "Timothée Thomas"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.931129476584022,
+      "uni": 0.5454545454545454,
+      "global": 0.7382920110192837
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.8666666666666667,
+      "uni": 0.5118457300275483,
+      "global": 0.6892561983471075
+    },
+    "university_optimal": {
+      "etu": 0.6396694214876033,
+      "uni": 0.8589531680440772,
+      "global": 0.7493112947658402
+    }
+  }
+}

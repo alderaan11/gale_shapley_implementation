@@ -1,0 +1,717 @@
+{
+  "etudiants": {
+    "Sophie Clément": [
+      "Université de Guyane",
+      "Université de Caen Normandie",
+      "Institut Catholique de Lille (ICL)",
+      "Nantes Université",
+      "Université de Rouen Normandie",
+      "Université Bretagne Sud (UBS)",
+      "Le Mans Université",
+      "Avignon Université",
+      "Université de Toulon",
+      "Université de Bourgogne",
+      "Université de La Réunion",
+      "Université de Rennes",
+      "Sorbonne Université",
+      "Université Sorbonne Paris Nord",
+      "École Centrale de Nantes",
+      "Université de La Rochelle"
+    ],
+    "Elsa Guérin": [
+      "Université de Bourgogne",
+      "École Centrale de Nantes",
+      "Université de La Rochelle",
+      "Université de Caen Normandie",
+      "Avignon Université",
+      "Université de La Réunion",
+      "Université de Guyane",
+      "Sorbonne Université",
+      "Université de Toulon",
+      "Université de Rennes",
+      "Le Mans Université",
+      "Institut Catholique de Lille (ICL)",
+      "Nantes Université",
+      "Université Sorbonne Paris Nord",
+      "Université de Rouen Normandie",
+      "Université Bretagne Sud (UBS)"
+    ],
+    "Philippe Aubry": [
+      "Université Bretagne Sud (UBS)",
+      "Institut Catholique de Lille (ICL)",
+      "École Centrale de Nantes",
+      "Université de Guyane",
+      "Avignon Université",
+      "Université de La Réunion",
+      "Le Mans Université",
+      "Université Sorbonne Paris Nord",
+      "Université de Bourgogne",
+      "Université de Toulon",
+      "Nantes Université",
+      "Université de Rouen Normandie",
+      "Université de Rennes",
+      "Université de Caen Normandie",
+      "Sorbonne Université",
+      "Université de La Rochelle"
+    ],
+    "Louise Garcia": [
+      "Université de Rennes",
+      "Université de La Rochelle",
+      "Université de Guyane",
+      "Nantes Université",
+      "Université de La Réunion",
+      "Le Mans Université",
+      "Université de Bourgogne",
+      "Avignon Université",
+      "Université Sorbonne Paris Nord",
+      "Université de Toulon",
+      "Université Bretagne Sud (UBS)",
+      "École Centrale de Nantes",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Rouen Normandie",
+      "Université de Caen Normandie",
+      "Sorbonne Université"
+    ],
+    "Nathan Garcia": [
+      "Université de Toulon",
+      "Avignon Université",
+      "Université de La Réunion",
+      "Université de Guyane",
+      "École Centrale de Nantes",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Rouen Normandie",
+      "Sorbonne Université",
+      "Nantes Université",
+      "Université de La Rochelle",
+      "Université Bretagne Sud (UBS)",
+      "Université de Rennes",
+      "Le Mans Université",
+      "Université de Bourgogne",
+      "Université Sorbonne Paris Nord",
+      "Université de Caen Normandie"
+    ],
+    "Hugo Simon": [
+      "Université Sorbonne Paris Nord",
+      "Avignon Université",
+      "Université de Guyane",
+      "Université de Rouen Normandie",
+      "Le Mans Université",
+      "Université de Caen Normandie",
+      "Sorbonne Université",
+      "Université Bretagne Sud (UBS)",
+      "Université de La Réunion",
+      "Institut Catholique de Lille (ICL)",
+      "Nantes Université",
+      "École Centrale de Nantes",
+      "Université de Rennes",
+      "Université de Toulon",
+      "Université de La Rochelle",
+      "Université de Bourgogne"
+    ],
+    "Antoine Launay": [
+      "Université de La Réunion",
+      "Université de Rennes",
+      "Nantes Université",
+      "Université de Toulon",
+      "Avignon Université",
+      "Le Mans Université",
+      "Université de Bourgogne",
+      "Université de Caen Normandie",
+      "Université Bretagne Sud (UBS)",
+      "Université de Rouen Normandie",
+      "Sorbonne Université",
+      "Université de Guyane",
+      "École Centrale de Nantes",
+      "Université de La Rochelle",
+      "Institut Catholique de Lille (ICL)",
+      "Université Sorbonne Paris Nord"
+    ],
+    "David Benoît": [
+      "Sorbonne Université",
+      "École Centrale de Nantes",
+      "Avignon Université",
+      "Université de Toulon",
+      "Université de Rouen Normandie",
+      "Université de Guyane",
+      "Université de La Réunion",
+      "Université Sorbonne Paris Nord",
+      "Nantes Université",
+      "Université de Caen Normandie",
+      "Université de Rennes",
+      "Institut Catholique de Lille (ICL)",
+      "Université Bretagne Sud (UBS)",
+      "Université de Bourgogne",
+      "Université de La Rochelle",
+      "Le Mans Université"
+    ],
+    "Clément Bébou": [
+      "Nantes Université",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Guyane",
+      "Université de La Rochelle",
+      "École Centrale de Nantes",
+      "Université de Bourgogne",
+      "Université de La Réunion",
+      "Le Mans Université",
+      "Université de Rouen Normandie",
+      "Université de Caen Normandie",
+      "Sorbonne Université",
+      "Université de Rennes",
+      "Université Bretagne Sud (UBS)",
+      "Avignon Université",
+      "Université Sorbonne Paris Nord",
+      "Université de Toulon"
+    ],
+    "Diane Morin": [
+      "Université de Toulon",
+      "Université de Caen Normandie",
+      "Université de Rennes",
+      "Avignon Université",
+      "Université Bretagne Sud (UBS)",
+      "Le Mans Université",
+      "Sorbonne Université",
+      "École Centrale de Nantes",
+      "Université de La Réunion",
+      "Université de Rouen Normandie",
+      "Institut Catholique de Lille (ICL)",
+      "Université de La Rochelle",
+      "Nantes Université",
+      "Université de Guyane",
+      "Université Sorbonne Paris Nord",
+      "Université de Bourgogne"
+    ],
+    "Samuel Mercier": [
+      "Nantes Université",
+      "Avignon Université",
+      "Université de La Réunion",
+      "Université de Bourgogne",
+      "Université de Toulon",
+      "Université de La Rochelle",
+      "Le Mans Université",
+      "Université de Guyane",
+      "Université de Rennes",
+      "Institut Catholique de Lille (ICL)",
+      "Sorbonne Université",
+      "École Centrale de Nantes",
+      "Université Sorbonne Paris Nord",
+      "Université de Rouen Normandie",
+      "Université de Caen Normandie",
+      "Université Bretagne Sud (UBS)"
+    ],
+    "Manon Dubois": [
+      "École Centrale de Nantes",
+      "Université de La Réunion",
+      "Le Mans Université",
+      "Université Bretagne Sud (UBS)",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Rennes",
+      "Université de Toulon",
+      "Université Sorbonne Paris Nord",
+      "Université de Bourgogne",
+      "Avignon Université",
+      "Sorbonne Université",
+      "Université de Guyane",
+      "Université de Rouen Normandie",
+      "Université de La Rochelle",
+      "Université de Caen Normandie",
+      "Nantes Université"
+    ],
+    "Louis Leroy": [
+      "Université de Caen Normandie",
+      "Université de La Rochelle",
+      "Université de Guyane",
+      "Avignon Université",
+      "Nantes Université",
+      "Université Sorbonne Paris Nord",
+      "Université de La Réunion",
+      "Sorbonne Université",
+      "Université Bretagne Sud (UBS)",
+      "Université de Rennes",
+      "Le Mans Université",
+      "Université de Bourgogne",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Rouen Normandie",
+      "École Centrale de Nantes",
+      "Université de Toulon"
+    ],
+    "Bastien Jacquet": [
+      "Sorbonne Université",
+      "Université de Guyane",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Rouen Normandie",
+      "Université de Rennes",
+      "Université de La Réunion",
+      "Le Mans Université",
+      "Université de Toulon",
+      "Université de Caen Normandie",
+      "Université Bretagne Sud (UBS)",
+      "Université de Bourgogne",
+      "Université de La Rochelle",
+      "Avignon Université",
+      "Université Sorbonne Paris Nord",
+      "Nantes Université",
+      "École Centrale de Nantes"
+    ],
+    "Matteo Laurent": [
+      "Université Bretagne Sud (UBS)",
+      "Université de Rouen Normandie",
+      "École Centrale de Nantes",
+      "Université de Toulon",
+      "Université de Rennes",
+      "Université de Bourgogne",
+      "Institut Catholique de Lille (ICL)",
+      "Sorbonne Université",
+      "Université de La Réunion",
+      "Nantes Université",
+      "Avignon Université",
+      "Université de La Rochelle",
+      "Université de Guyane",
+      "Université de Caen Normandie",
+      "Université Sorbonne Paris Nord",
+      "Le Mans Université"
+    ],
+    "Romane Leroux": [
+      "Université de Bourgogne",
+      "Sorbonne Université",
+      "Université Bretagne Sud (UBS)",
+      "Université de Rennes",
+      "Université de Guyane",
+      "École Centrale de Nantes",
+      "Avignon Université",
+      "Université de La Rochelle",
+      "Université de La Réunion",
+      "Université de Caen Normandie",
+      "Le Mans Université",
+      "Institut Catholique de Lille (ICL)",
+      "Université de Toulon",
+      "Nantes Université",
+      "Université de Rouen Normandie",
+      "Université Sorbonne Paris Nord"
+    ]
+  },
+  "etablissements": {
+    "Université de Rennes": [
+      "Antoine Launay",
+      "Nathan Garcia",
+      "David Benoît",
+      "Louis Leroy",
+      "Bastien Jacquet",
+      "Hugo Simon",
+      "Romane Leroux",
+      "Manon Dubois",
+      "Louise Garcia",
+      "Samuel Mercier",
+      "Clément Bébou",
+      "Matteo Laurent",
+      "Elsa Guérin",
+      "Sophie Clément",
+      "Philippe Aubry",
+      "Diane Morin"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Romane Leroux",
+      "Clément Bébou",
+      "Matteo Laurent",
+      "David Benoît",
+      "Diane Morin",
+      "Nathan Garcia",
+      "Samuel Mercier",
+      "Bastien Jacquet",
+      "Philippe Aubry",
+      "Manon Dubois",
+      "Louise Garcia",
+      "Hugo Simon",
+      "Antoine Launay",
+      "Louis Leroy",
+      "Elsa Guérin",
+      "Sophie Clément"
+    ],
+    "Avignon Université": [
+      "Sophie Clément",
+      "Hugo Simon",
+      "David Benoît",
+      "Romane Leroux",
+      "Louis Leroy",
+      "Samuel Mercier",
+      "Matteo Laurent",
+      "Louise Garcia",
+      "Antoine Launay",
+      "Nathan Garcia",
+      "Diane Morin",
+      "Clément Bébou",
+      "Philippe Aubry",
+      "Bastien Jacquet",
+      "Elsa Guérin",
+      "Manon Dubois"
+    ],
+    "Université de La Rochelle": [
+      "Hugo Simon",
+      "Philippe Aubry",
+      "Elsa Guérin",
+      "Bastien Jacquet",
+      "Samuel Mercier",
+      "Nathan Garcia",
+      "Sophie Clément",
+      "Manon Dubois",
+      "Diane Morin",
+      "Clément Bébou",
+      "Louise Garcia",
+      "David Benoît",
+      "Matteo Laurent",
+      "Romane Leroux",
+      "Louis Leroy",
+      "Antoine Launay"
+    ],
+    "Université de Toulon": [
+      "Louis Leroy",
+      "Clément Bébou",
+      "Louise Garcia",
+      "Matteo Laurent",
+      "Elsa Guérin",
+      "Diane Morin",
+      "Manon Dubois",
+      "Hugo Simon",
+      "Nathan Garcia",
+      "David Benoît",
+      "Samuel Mercier",
+      "Romane Leroux",
+      "Sophie Clément",
+      "Bastien Jacquet",
+      "Philippe Aubry",
+      "Antoine Launay"
+    ],
+    "Université de Rouen Normandie": [
+      "Romane Leroux",
+      "Manon Dubois",
+      "Diane Morin",
+      "David Benoît",
+      "Matteo Laurent",
+      "Elsa Guérin",
+      "Louise Garcia",
+      "Bastien Jacquet",
+      "Nathan Garcia",
+      "Sophie Clément",
+      "Louis Leroy",
+      "Clément Bébou",
+      "Samuel Mercier",
+      "Hugo Simon",
+      "Philippe Aubry",
+      "Antoine Launay"
+    ],
+    "Le Mans Université": [
+      "Romane Leroux",
+      "Diane Morin",
+      "Manon Dubois",
+      "Clément Bébou",
+      "Louise Garcia",
+      "Louis Leroy",
+      "Sophie Clément",
+      "Hugo Simon",
+      "David Benoît",
+      "Philippe Aubry",
+      "Elsa Guérin",
+      "Nathan Garcia",
+      "Bastien Jacquet",
+      "Matteo Laurent",
+      "Samuel Mercier",
+      "Antoine Launay"
+    ],
+    "École Centrale de Nantes": [
+      "Nathan Garcia",
+      "Louis Leroy",
+      "Philippe Aubry",
+      "Matteo Laurent",
+      "David Benoît",
+      "Diane Morin",
+      "Hugo Simon",
+      "Sophie Clément",
+      "Romane Leroux",
+      "Bastien Jacquet",
+      "Clément Bébou",
+      "Elsa Guérin",
+      "Antoine Launay",
+      "Samuel Mercier",
+      "Manon Dubois",
+      "Louise Garcia"
+    ],
+    "Nantes Université": [
+      "Samuel Mercier",
+      "Manon Dubois",
+      "Clément Bébou",
+      "Romane Leroux",
+      "Sophie Clément",
+      "Elsa Guérin",
+      "Hugo Simon",
+      "Nathan Garcia",
+      "David Benoît",
+      "Bastien Jacquet",
+      "Louis Leroy",
+      "Philippe Aubry",
+      "Antoine Launay",
+      "Matteo Laurent",
+      "Louise Garcia",
+      "Diane Morin"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Manon Dubois",
+      "Samuel Mercier",
+      "Louise Garcia",
+      "Antoine Launay",
+      "Nathan Garcia",
+      "Hugo Simon",
+      "Bastien Jacquet",
+      "Sophie Clément",
+      "David Benoît",
+      "Philippe Aubry",
+      "Diane Morin",
+      "Louis Leroy",
+      "Romane Leroux",
+      "Clément Bébou",
+      "Matteo Laurent",
+      "Elsa Guérin"
+    ],
+    "Université de Caen Normandie": [
+      "Hugo Simon",
+      "Manon Dubois",
+      "Diane Morin",
+      "Clément Bébou",
+      "Bastien Jacquet",
+      "Louise Garcia",
+      "Sophie Clément",
+      "Elsa Guérin",
+      "Matteo Laurent",
+      "Antoine Launay",
+      "David Benoît",
+      "Philippe Aubry",
+      "Louis Leroy",
+      "Nathan Garcia",
+      "Romane Leroux",
+      "Samuel Mercier"
+    ],
+    "Sorbonne Université": [
+      "Clément Bébou",
+      "Philippe Aubry",
+      "Bastien Jacquet",
+      "Diane Morin",
+      "Romane Leroux",
+      "Matteo Laurent",
+      "Louise Garcia",
+      "Samuel Mercier",
+      "Nathan Garcia",
+      "Louis Leroy",
+      "Hugo Simon",
+      "David Benoît",
+      "Sophie Clément",
+      "Antoine Launay",
+      "Elsa Guérin",
+      "Manon Dubois"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Diane Morin",
+      "Manon Dubois",
+      "Matteo Laurent",
+      "Elsa Guérin",
+      "Nathan Garcia",
+      "Philippe Aubry",
+      "David Benoît",
+      "Clément Bébou",
+      "Sophie Clément",
+      "Romane Leroux",
+      "Louise Garcia",
+      "Samuel Mercier",
+      "Antoine Launay",
+      "Louis Leroy",
+      "Hugo Simon",
+      "Bastien Jacquet"
+    ],
+    "Université de La Réunion": [
+      "Manon Dubois",
+      "Louise Garcia",
+      "Antoine Launay",
+      "Elsa Guérin",
+      "Nathan Garcia",
+      "Bastien Jacquet",
+      "Romane Leroux",
+      "Clément Bébou",
+      "Philippe Aubry",
+      "Samuel Mercier",
+      "David Benoît",
+      "Louis Leroy",
+      "Hugo Simon",
+      "Sophie Clément",
+      "Matteo Laurent",
+      "Diane Morin"
+    ],
+    "Université de Bourgogne": [
+      "Philippe Aubry",
+      "Louis Leroy",
+      "Manon Dubois",
+      "Elsa Guérin",
+      "Romane Leroux",
+      "Sophie Clément",
+      "Diane Morin",
+      "Samuel Mercier",
+      "Louise Garcia",
+      "Clément Bébou",
+      "Matteo Laurent",
+      "Nathan Garcia",
+      "Hugo Simon",
+      "Antoine Launay",
+      "David Benoît",
+      "Bastien Jacquet"
+    ],
+    "Université de Guyane": [
+      "Diane Morin",
+      "Sophie Clément",
+      "Romane Leroux",
+      "Louis Leroy",
+      "Matteo Laurent",
+      "Antoine Launay",
+      "Philippe Aubry",
+      "Bastien Jacquet",
+      "Samuel Mercier",
+      "Manon Dubois",
+      "David Benoît",
+      "Nathan Garcia",
+      "Hugo Simon",
+      "Clément Bébou",
+      "Louise Garcia",
+      "Elsa Guérin"
+    ]
+  },
+  "capacites": {
+    "Université de Rennes": 1,
+    "Université Bretagne Sud (UBS)": 1,
+    "Avignon Université": 1,
+    "Université de La Rochelle": 1,
+    "Université de Toulon": 1,
+    "Université de Rouen Normandie": 1,
+    "Le Mans Université": 1,
+    "École Centrale de Nantes": 1,
+    "Nantes Université": 1,
+    "Institut Catholique de Lille (ICL)": 1,
+    "Université de Caen Normandie": 1,
+    "Sorbonne Université": 1,
+    "Université Sorbonne Paris Nord": 1,
+    "Université de La Réunion": 1,
+    "Université de Bourgogne": 1,
+    "Université de Guyane": 1
+  },
+  "matching_student_optimal": {
+    "Université de Rennes": [
+      "Antoine Launay"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Romane Leroux"
+    ],
+    "Avignon Université": [
+      "David Benoît"
+    ],
+    "Université de La Rochelle": [
+      "Clément Bébou"
+    ],
+    "Université de Toulon": [
+      "Diane Morin"
+    ],
+    "Université de Rouen Normandie": [
+      "Matteo Laurent"
+    ],
+    "Le Mans Université": [
+      "Louise Garcia"
+    ],
+    "École Centrale de Nantes": [
+      "Nathan Garcia"
+    ],
+    "Nantes Université": [
+      "Samuel Mercier"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Philippe Aubry"
+    ],
+    "Université de Caen Normandie": [
+      "Louis Leroy"
+    ],
+    "Sorbonne Université": [
+      "Bastien Jacquet"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Hugo Simon"
+    ],
+    "Université de La Réunion": [
+      "Manon Dubois"
+    ],
+    "Université de Bourgogne": [
+      "Elsa Guérin"
+    ],
+    "Université de Guyane": [
+      "Sophie Clément"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université de Rennes": [
+      "Antoine Launay"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Romane Leroux"
+    ],
+    "Avignon Université": [
+      "Hugo Simon"
+    ],
+    "Université de La Rochelle": [
+      "Elsa Guérin"
+    ],
+    "Université de Toulon": [
+      "Louis Leroy"
+    ],
+    "Université de Rouen Normandie": [
+      "David Benoît"
+    ],
+    "Le Mans Université": [
+      "Clément Bébou"
+    ],
+    "École Centrale de Nantes": [
+      "Nathan Garcia"
+    ],
+    "Nantes Université": [
+      "Samuel Mercier"
+    ],
+    "Institut Catholique de Lille (ICL)": [
+      "Louise Garcia"
+    ],
+    "Université de Caen Normandie": [
+      "Diane Morin"
+    ],
+    "Sorbonne Université": [
+      "Bastien Jacquet"
+    ],
+    "Université Sorbonne Paris Nord": [
+      "Matteo Laurent"
+    ],
+    "Université de La Réunion": [
+      "Manon Dubois"
+    ],
+    "Université de Bourgogne": [
+      "Philippe Aubry"
+    ],
+    "Université de Guyane": [
+      "Sophie Clément"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.8708333333333333,
+      "uni": 0.665625,
+      "global": 0.7682291666666667
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.8270833333333334,
+      "uni": 0.6567708333333333,
+      "global": 0.7419270833333333
+    },
+    "university_optimal": {
+      "etu": 0.7020833333333334,
+      "uni": 0.8359375,
+      "global": 0.7690104166666667
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "etudiants": {
+    "Hélène Joly": [
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "CY Cergy Paris Université",
+      "Université de La Rochelle",
+      "Université des Antilles",
+      "Université de Strasbourg",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Poitiers",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Aix-Marseille Université",
+      "Institut Catholique de Paris (ICP)"
+    ],
+    "Lucas Martin": [
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Strasbourg",
+      "Institut Catholique de Paris (ICP)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de La Rochelle",
+      "Université de Poitiers",
+      "CY Cergy Paris Université",
+      "Université des Antilles",
+      "Aix-Marseille Université"
+    ],
+    "Emma Petit": [
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Institut Catholique de Paris (ICP)",
+      "Université de La Rochelle",
+      "Université de Strasbourg",
+      "CY Cergy Paris Université",
+      "Université de Poitiers",
+      "Université Paris 2 Panthéon-Assas",
+      "Université des Antilles",
+      "Aix-Marseille Université",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)"
+    ],
+    "Agathe Masson": [
+      "Université des Antilles",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de La Rochelle",
+      "Institut Catholique de Paris (ICP)",
+      "CY Cergy Paris Université",
+      "Université de Strasbourg",
+      "Aix-Marseille Université",
+      "Université de Poitiers",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Yanis Carron": [
+      "Université de Strasbourg",
+      "Université des Antilles",
+      "Institut Catholique de Paris (ICP)",
+      "Aix-Marseille Université",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de La Rochelle",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Poitiers",
+      "CY Cergy Paris Université",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Mohamed Leblanc": [
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de La Rochelle",
+      "Université des Antilles",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Aix-Marseille Université",
+      "Université de Poitiers",
+      "Institut Catholique de Paris (ICP)",
+      "Université Paris 2 Panthéon-Assas",
+      "CY Cergy Paris Université",
+      "Université de Strasbourg"
+    ],
+    "Daniel Vidal": [
+      "Université Paris 2 Panthéon-Assas",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de La Rochelle",
+      "Université des Antilles",
+      "Aix-Marseille Université",
+      "Institut Catholique de Paris (ICP)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "CY Cergy Paris Université",
+      "Université de Strasbourg",
+      "Université de Poitiers"
+    ],
+    "Jeanne Leblanc": [
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Institut Catholique de Paris (ICP)",
+      "Université de Poitiers",
+      "Université des Antilles",
+      "Aix-Marseille Université",
+      "Université de La Rochelle",
+      "Université de Strasbourg",
+      "Université Paris 2 Panthéon-Assas",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "CY Cergy Paris Université"
+    ],
+    "Manon Dubois": [
+      "Aix-Marseille Université",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Institut Catholique de Paris (ICP)",
+      "Université de Strasbourg",
+      "Université des Antilles",
+      "Université de Poitiers",
+      "Université de La Rochelle",
+      "CY Cergy Paris Université",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Paris 2 Panthéon-Assas"
+    ],
+    "Clara Fournier": [
+      "CY Cergy Paris Université",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de Poitiers",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de La Rochelle",
+      "Aix-Marseille Université",
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Strasbourg",
+      "Institut Catholique de Paris (ICP)",
+      "Université des Antilles"
+    ]
+  },
+  "etablissements": {
+    "Université de La Rochelle": [
+      "Mohamed Leblanc",
+      "Emma Petit",
+      "Hélène Joly",
+      "Yanis Carron",
+      "Lucas Martin",
+      "Daniel Vidal",
+      "Clara Fournier",
+      "Jeanne Leblanc",
+      "Agathe Masson",
+      "Manon Dubois"
+    ],
+    "Université de Strasbourg": [
+      "Mohamed Leblanc",
+      "Emma Petit",
+      "Daniel Vidal",
+      "Hélène Joly",
+      "Clara Fournier",
+      "Jeanne Leblanc",
+      "Agathe Masson",
+      "Lucas Martin",
+      "Yanis Carron",
+      "Manon Dubois"
+    ],
+    "Université des Antilles": [
+      "Clara Fournier",
+      "Agathe Masson",
+      "Hélène Joly",
+      "Yanis Carron",
+      "Manon Dubois",
+      "Lucas Martin",
+      "Mohamed Leblanc",
+      "Daniel Vidal",
+      "Jeanne Leblanc",
+      "Emma Petit"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Mohamed Leblanc",
+      "Jeanne Leblanc",
+      "Manon Dubois",
+      "Yanis Carron",
+      "Agathe Masson",
+      "Lucas Martin",
+      "Hélène Joly",
+      "Emma Petit",
+      "Daniel Vidal",
+      "Clara Fournier"
+    ],
+    "Université de Poitiers": [
+      "Yanis Carron",
+      "Lucas Martin",
+      "Emma Petit",
+      "Agathe Masson",
+      "Mohamed Leblanc",
+      "Daniel Vidal",
+      "Hélène Joly",
+      "Manon Dubois",
+      "Clara Fournier",
+      "Jeanne Leblanc"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Hélène Joly",
+      "Clara Fournier",
+      "Yanis Carron",
+      "Lucas Martin",
+      "Daniel Vidal",
+      "Manon Dubois",
+      "Emma Petit",
+      "Mohamed Leblanc",
+      "Jeanne Leblanc",
+      "Agathe Masson"
+    ],
+    "CY Cergy Paris Université": [
+      "Mohamed Leblanc",
+      "Manon Dubois",
+      "Hélène Joly",
+      "Lucas Martin",
+      "Yanis Carron",
+      "Clara Fournier",
+      "Agathe Masson",
+      "Daniel Vidal",
+      "Emma Petit",
+      "Jeanne Leblanc"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Yanis Carron",
+      "Emma Petit",
+      "Hélène Joly",
+      "Jeanne Leblanc",
+      "Mohamed Leblanc",
+      "Lucas Martin",
+      "Agathe Masson",
+      "Clara Fournier",
+      "Daniel Vidal",
+      "Manon Dubois"
+    ],
+    "Institut Catholique de Paris (ICP)": [
+      "Yanis Carron",
+      "Manon Dubois",
+      "Hélène Joly",
+      "Daniel Vidal",
+      "Jeanne Leblanc",
+      "Lucas Martin",
+      "Agathe Masson",
+      "Mohamed Leblanc",
+      "Emma Petit",
+      "Clara Fournier"
+    ],
+    "Aix-Marseille Université": [
+      "Hélène Joly",
+      "Daniel Vidal",
+      "Clara Fournier",
+      "Yanis Carron",
+      "Lucas Martin",
+      "Emma Petit",
+      "Jeanne Leblanc",
+      "Agathe Masson",
+      "Manon Dubois",
+      "Mohamed Leblanc"
+    ]
+  },
+  "capacites": {
+    "Université de La Rochelle": 1,
+    "Université de Strasbourg": 1,
+    "Université des Antilles": 1,
+    "Université Paris 2 Panthéon-Assas": 1,
+    "Université de Poitiers": 1,
+    "Université Sorbonne Nouvelle - Paris 3": 1,
+    "CY Cergy Paris Université": 1,
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": 1,
+    "Institut Catholique de Paris (ICP)": 1,
+    "Aix-Marseille Université": 1
+  },
+  "matching_student_optimal": {
+    "Université de La Rochelle": [
+      "Mohamed Leblanc"
+    ],
+    "Université de Strasbourg": [
+      "Emma Petit"
+    ],
+    "Université des Antilles": [
+      "Agathe Masson"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Daniel Vidal"
+    ],
+    "Université de Poitiers": [
+      "Jeanne Leblanc"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Lucas Martin"
+    ],
+    "CY Cergy Paris Université": [
+      "Clara Fournier"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Hélène Joly"
+    ],
+    "Institut Catholique de Paris (ICP)": [
+      "Yanis Carron"
+    ],
+    "Aix-Marseille Université": [
+      "Manon Dubois"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université de La Rochelle": [
+      "Mohamed Leblanc"
+    ],
+    "Université de Strasbourg": [
+      "Emma Petit"
+    ],
+    "Université des Antilles": [
+      "Agathe Masson"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Jeanne Leblanc"
+    ],
+    "Université de Poitiers": [
+      "Lucas Martin"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Clara Fournier"
+    ],
+    "CY Cergy Paris Université": [
+      "Manon Dubois"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Hélène Joly"
+    ],
+    "Institut Catholique de Paris (ICP)": [
+      "Yanis Carron"
+    ],
+    "Aix-Marseille Université": [
+      "Daniel Vidal"
+    ]
+  },
+  "scores": {
+    "student_optimal": {
+      "stable": true,
+      "sat_etudiants": 0.9199999999999999,
+      "sat_universites": 0.63
+    },
+    "university_optimal": {
+      "stable": true,
+      "sat_etudiants": 0.69,
+      "sat_universites": 0.9099999999999999
+    }
+  }
+}

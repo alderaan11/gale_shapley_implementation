@@ -1,0 +1,392 @@
+{
+  "etudiants": {
+    "Pauline Barbier": [
+      "Université du Havre Normandie",
+      "Université de Bourgogne",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Nîmes (UNIMES)",
+      "Université Toulouse - Jean Jaurès",
+      "Université Bordeaux Montaigne",
+      "Université de La Réunion",
+      "Université de Bordeaux"
+    ],
+    "Sofia Martin": [
+      "Université du Havre Normandie",
+      "Université de Bourgogne",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Toulouse - Jean Jaurès",
+      "Université de La Réunion",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Nîmes (UNIMES)",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de Bordeaux",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université Bordeaux Montaigne"
+    ],
+    "Cécile Vidal": [
+      "Université de La Réunion",
+      "Université Grenoble Alpes (UGA)",
+      "Université Bordeaux Montaigne",
+      "Université de Bourgogne",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de Bordeaux",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université Toulouse - Jean Jaurès",
+      "Université du Havre Normandie",
+      "Université de Nîmes (UNIMES)"
+    ],
+    "Gabriel Bernard": [
+      "Université de Nîmes (UNIMES)",
+      "Université Bordeaux Montaigne",
+      "Université Grenoble Alpes (UGA)",
+      "Université Toulouse - Jean Jaurès",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université de La Réunion",
+      "Université du Havre Normandie",
+      "Université de Bordeaux",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de Bourgogne"
+    ],
+    "Kylian Hubert": [
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université du Havre Normandie",
+      "Université de Nîmes (UNIMES)",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Bordeaux Montaigne",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bourgogne",
+      "Université de La Réunion",
+      "Université Toulouse - Jean Jaurès",
+      "Université de Bordeaux"
+    ],
+    "Jade Renard": [
+      "Université de Picardie Jules-Verne (UPJV)",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université du Havre Normandie",
+      "Université de Bourgogne",
+      "Université Toulouse - Jean Jaurès",
+      "Université de La Réunion",
+      "Université de Nîmes (UNIMES)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de Bordeaux",
+      "Université Bordeaux Montaigne",
+      "Université Grenoble Alpes (UGA)"
+    ],
+    "Michel Barbier": [
+      "Université Grenoble Alpes (UGA)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de La Réunion",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Toulouse - Jean Jaurès",
+      "Université de Bourgogne",
+      "Université Bordeaux Montaigne",
+      "Université de Nîmes (UNIMES)",
+      "Université du Havre Normandie",
+      "Université de Bordeaux"
+    ],
+    "Vincent Meyer": [
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Bordeaux Montaigne",
+      "Université de Nîmes (UNIMES)",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de Bourgogne",
+      "Université Grenoble Alpes (UGA)",
+      "Université Toulouse - Jean Jaurès",
+      "Université de Bordeaux",
+      "Université du Havre Normandie",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de La Réunion"
+    ],
+    "David Benoît": [
+      "Université Toulouse - Jean Jaurès",
+      "Université du Havre Normandie",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de Bordeaux",
+      "Université de La Réunion",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de Bourgogne",
+      "Université Bordeaux Montaigne",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Nîmes (UNIMES)"
+    ],
+    "Sophie Clément": [
+      "Université de La Réunion",
+      "Université de Bordeaux",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université de Nîmes (UNIMES)",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université Toulouse - Jean Jaurès",
+      "Université Bordeaux Montaigne",
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université de Bourgogne",
+      "Université Grenoble Alpes (UGA)",
+      "Université du Havre Normandie"
+    ],
+    "Maxime Dupuis": [
+      "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "Université Toulouse - Jean Jaurès",
+      "Université de La Réunion",
+      "Institut National Polytechnique de Toulouse (INP)",
+      "Université du Havre Normandie",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bordeaux",
+      "Université de Nîmes (UNIMES)",
+      "Université Bordeaux Montaigne",
+      "Université de Bourgogne",
+      "Université de Picardie Jules-Verne (UPJV)"
+    ]
+  },
+  "etablissements": {
+    "Université de Bordeaux": [
+      "Jade Renard",
+      "Michel Barbier",
+      "Cécile Vidal",
+      "Sofia Martin",
+      "Maxime Dupuis",
+      "Vincent Meyer",
+      "Pauline Barbier",
+      "Gabriel Bernard",
+      "David Benoît",
+      "Sophie Clément",
+      "Kylian Hubert"
+    ],
+    "Université de Nîmes (UNIMES)": [
+      "Maxime Dupuis",
+      "Michel Barbier",
+      "Sofia Martin",
+      "David Benoît",
+      "Vincent Meyer",
+      "Jade Renard",
+      "Sophie Clément",
+      "Pauline Barbier",
+      "Kylian Hubert",
+      "Cécile Vidal",
+      "Gabriel Bernard"
+    ],
+    "Université Bordeaux Montaigne": [
+      "Cécile Vidal",
+      "Kylian Hubert",
+      "Maxime Dupuis",
+      "Jade Renard",
+      "David Benoît",
+      "Sofia Martin",
+      "Gabriel Bernard",
+      "Sophie Clément",
+      "Pauline Barbier",
+      "Michel Barbier",
+      "Vincent Meyer"
+    ],
+    "Université de La Réunion": [
+      "Kylian Hubert",
+      "Sophie Clément",
+      "Maxime Dupuis",
+      "Michel Barbier",
+      "Gabriel Bernard",
+      "Vincent Meyer",
+      "Cécile Vidal",
+      "Pauline Barbier",
+      "David Benoît",
+      "Sofia Martin",
+      "Jade Renard"
+    ],
+    "Université de Bourgogne": [
+      "Sofia Martin",
+      "Gabriel Bernard",
+      "Cécile Vidal",
+      "Maxime Dupuis",
+      "Pauline Barbier",
+      "Vincent Meyer",
+      "Jade Renard",
+      "Michel Barbier",
+      "Kylian Hubert",
+      "David Benoît",
+      "Sophie Clément"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "David Benoît",
+      "Sophie Clément",
+      "Michel Barbier",
+      "Maxime Dupuis",
+      "Vincent Meyer",
+      "Cécile Vidal",
+      "Gabriel Bernard",
+      "Jade Renard",
+      "Sofia Martin",
+      "Pauline Barbier",
+      "Kylian Hubert"
+    ],
+    "École Nationale Supérieure d'Arts et Métiers (ENSAM)": [
+      "Cécile Vidal",
+      "Vincent Meyer",
+      "David Benoît",
+      "Sofia Martin",
+      "Maxime Dupuis",
+      "Michel Barbier",
+      "Gabriel Bernard",
+      "Sophie Clément",
+      "Kylian Hubert",
+      "Jade Renard",
+      "Pauline Barbier"
+    ],
+    "Université du Havre Normandie": [
+      "Sophie Clément",
+      "Jade Renard",
+      "Michel Barbier",
+      "Maxime Dupuis",
+      "David Benoît",
+      "Pauline Barbier",
+      "Vincent Meyer",
+      "Sofia Martin",
+      "Gabriel Bernard",
+      "Kylian Hubert",
+      "Cécile Vidal"
+    ],
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Gabriel Bernard",
+      "Kylian Hubert",
+      "Maxime Dupuis",
+      "Pauline Barbier",
+      "Sophie Clément",
+      "Jade Renard",
+      "David Benoît",
+      "Vincent Meyer",
+      "Cécile Vidal",
+      "Michel Barbier",
+      "Sofia Martin"
+    ],
+    "Institut National Polytechnique de Toulouse (INP)": [
+      "Sofia Martin",
+      "David Benoît",
+      "Pauline Barbier",
+      "Jade Renard",
+      "Kylian Hubert",
+      "Cécile Vidal",
+      "Vincent Meyer",
+      "Maxime Dupuis",
+      "Sophie Clément",
+      "Gabriel Bernard",
+      "Michel Barbier"
+    ],
+    "Université Toulouse - Jean Jaurès": [
+      "Sofia Martin",
+      "Vincent Meyer",
+      "Pauline Barbier",
+      "Cécile Vidal",
+      "Sophie Clément",
+      "Jade Renard",
+      "David Benoît",
+      "Michel Barbier",
+      "Maxime Dupuis",
+      "Kylian Hubert",
+      "Gabriel Bernard"
+    ]
+  },
+  "capacites": {
+    "Université de Bordeaux": 1,
+    "Université de Nîmes (UNIMES)": 1,
+    "Université Bordeaux Montaigne": 1,
+    "Université de La Réunion": 1,
+    "Université de Bourgogne": 1,
+    "Université Grenoble Alpes (UGA)": 1,
+    "École Nationale Supérieure d'Arts et Métiers (ENSAM)": 1,
+    "Université du Havre Normandie": 1,
+    "Université de Picardie Jules-Verne (UPJV)": 1,
+    "Institut National Polytechnique de Toulouse (INP)": 1,
+    "Université Toulouse - Jean Jaurès": 1
+  },
+  "matching_student_optimal": {
+    "Université de Bordeaux": [
+      "Maxime Dupuis"
+    ],
+    "Université de Nîmes (UNIMES)": [
+      "Gabriel Bernard"
+    ],
+    "Université Bordeaux Montaigne": [
+      "Cécile Vidal"
+    ],
+    "Université de La Réunion": [
+      "Sophie Clément"
+    ],
+    "Université de Bourgogne": [
+      "Sofia Martin"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Michel Barbier"
+    ],
+    "École Nationale Supérieure d'Arts et Métiers (ENSAM)": [
+      "Vincent Meyer"
+    ],
+    "Université du Havre Normandie": [
+      "Jade Renard"
+    ],
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Kylian Hubert"
+    ],
+    "Institut National Polytechnique de Toulouse (INP)": [
+      "Pauline Barbier"
+    ],
+    "Université Toulouse - Jean Jaurès": [
+      "David Benoît"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université de Bordeaux": [
+      "Michel Barbier"
+    ],
+    "Université de Nîmes (UNIMES)": [
+      "Maxime Dupuis"
+    ],
+    "Université Bordeaux Montaigne": [
+      "Cécile Vidal"
+    ],
+    "Université de La Réunion": [
+      "Kylian Hubert"
+    ],
+    "Université de Bourgogne": [
+      "Sofia Martin"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Sophie Clément"
+    ],
+    "École Nationale Supérieure d'Arts et Métiers (ENSAM)": [
+      "Vincent Meyer"
+    ],
+    "Université du Havre Normandie": [
+      "Jade Renard"
+    ],
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Gabriel Bernard"
+    ],
+    "Institut National Polytechnique de Toulouse (INP)": [
+      "David Benoît"
+    ],
+    "Université Toulouse - Jean Jaurès": [
+      "Pauline Barbier"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.8418732782369147,
+      "uni": 0.7476584022038568,
+      "global": 0.7947658402203858
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.8418732782369147,
+      "uni": 0.7476584022038568,
+      "global": 0.7947658402203858
+    },
+    "university_optimal": {
+      "etu": 0.6044077134986225,
+      "uni": 0.9035812672176309,
+      "global": 0.7539944903581267
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "etudiants": {
+    "Timothée Thomas": [
+      "Université Grenoble Alpes (UGA)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Clermont Auvergne",
+      "Université de Guyane",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Collège de France",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Bordeaux",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)"
+    ],
+    "Yanis Carron": [
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Clermont Auvergne",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université Paul-Valéry Montpellier 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Collège de France",
+      "Université de Bordeaux",
+      "Université de Guyane",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Eva Thomas": [
+      "Université Clermont Auvergne",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université de Guyane",
+      "Collège de France",
+      "Université Grenoble Alpes (UGA)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Bordeaux",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Bretagne Occidentale (UBO)"
+    ],
+    "Alexandre Gautier": [
+      "Université de Bordeaux",
+      "Université Paul-Valéry Montpellier 3",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Collège de France",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Guyane",
+      "Université Clermont Auvergne",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Polytechnique Hauts-de-France (UPHF)"
+    ],
+    "Audrey Benoît": [
+      "Université Clermont Auvergne",
+      "Université de Guyane",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bordeaux",
+      "Université Paul-Valéry Montpellier 3",
+      "Collège de France",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Vanessa Pons": [
+      "Université Paul-Valéry Montpellier 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Clermont Auvergne",
+      "Université de Guyane",
+      "Collège de France",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bordeaux"
+    ],
+    "Éric Wagner": [
+      "Collège de France",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Bordeaux",
+      "Université Grenoble Alpes (UGA)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Guyane",
+      "Université Clermont Auvergne"
+    ],
+    "Michel Barbier": [
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Grenoble Alpes (UGA)",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Guyane",
+      "Université de Bordeaux",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Clermont Auvergne",
+      "Collège de France"
+    ],
+    "Sabrina Colas": [
+      "Université Grenoble Alpes (UGA)",
+      "Collège de France",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université de Bordeaux",
+      "Université de Guyane",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Clermont Auvergne",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Paul-Valéry Montpellier 3",
+      "Université Polytechnique Hauts-de-France (UPHF)"
+    ],
+    "Camille Simon": [
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Clermont Auvergne",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Collège de France",
+      "Université de Bordeaux",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Guyane",
+      "Université Paul-Valéry Montpellier 3",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Alice Dupond": [
+      "Université de Guyane",
+      "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+      "Université Clermont Auvergne",
+      "Collège de France",
+      "Université Grenoble Alpes (UGA)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Paul-Valéry Montpellier 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Polytechnique Hauts-de-France (UPHF)",
+      "Université de Bordeaux"
+    ]
+  },
+  "etablissements": {
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Sabrina Colas",
+      "Yanis Carron",
+      "Audrey Benoît",
+      "Éric Wagner",
+      "Vanessa Pons",
+      "Eva Thomas",
+      "Timothée Thomas",
+      "Alice Dupond",
+      "Camille Simon",
+      "Alexandre Gautier",
+      "Michel Barbier"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Michel Barbier",
+      "Vanessa Pons",
+      "Alice Dupond",
+      "Audrey Benoît",
+      "Camille Simon",
+      "Sabrina Colas",
+      "Yanis Carron",
+      "Éric Wagner",
+      "Eva Thomas",
+      "Alexandre Gautier",
+      "Timothée Thomas"
+    ],
+    "Université de Guyane": [
+      "Vanessa Pons",
+      "Alice Dupond",
+      "Éric Wagner",
+      "Michel Barbier",
+      "Sabrina Colas",
+      "Yanis Carron",
+      "Timothée Thomas",
+      "Camille Simon",
+      "Alexandre Gautier",
+      "Eva Thomas",
+      "Audrey Benoît"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Audrey Benoît",
+      "Vanessa Pons",
+      "Yanis Carron",
+      "Éric Wagner",
+      "Timothée Thomas",
+      "Camille Simon",
+      "Alexandre Gautier",
+      "Michel Barbier",
+      "Sabrina Colas",
+      "Eva Thomas",
+      "Alice Dupond"
+    ],
+    "Université Polytechnique Hauts-de-France (UPHF)": [
+      "Alice Dupond",
+      "Eva Thomas",
+      "Michel Barbier",
+      "Audrey Benoît",
+      "Sabrina Colas",
+      "Yanis Carron",
+      "Éric Wagner",
+      "Alexandre Gautier",
+      "Camille Simon",
+      "Timothée Thomas",
+      "Vanessa Pons"
+    ],
+    "Université Clermont Auvergne": [
+      "Vanessa Pons",
+      "Audrey Benoît",
+      "Alexandre Gautier",
+      "Yanis Carron",
+      "Sabrina Colas",
+      "Alice Dupond",
+      "Camille Simon",
+      "Eva Thomas",
+      "Michel Barbier",
+      "Éric Wagner",
+      "Timothée Thomas"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Alexandre Gautier",
+      "Alice Dupond",
+      "Eva Thomas",
+      "Vanessa Pons",
+      "Camille Simon",
+      "Michel Barbier",
+      "Yanis Carron",
+      "Timothée Thomas",
+      "Sabrina Colas",
+      "Audrey Benoît",
+      "Éric Wagner"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Audrey Benoît",
+      "Michel Barbier",
+      "Vanessa Pons",
+      "Sabrina Colas",
+      "Alice Dupond",
+      "Eva Thomas",
+      "Alexandre Gautier",
+      "Éric Wagner",
+      "Camille Simon",
+      "Yanis Carron",
+      "Timothée Thomas"
+    ],
+    "Université de Bordeaux": [
+      "Sabrina Colas",
+      "Eva Thomas",
+      "Vanessa Pons",
+      "Timothée Thomas",
+      "Yanis Carron",
+      "Alice Dupond",
+      "Camille Simon",
+      "Alexandre Gautier",
+      "Michel Barbier",
+      "Éric Wagner",
+      "Audrey Benoît"
+    ],
+    "Collège de France": [
+      "Audrey Benoît",
+      "Timothée Thomas",
+      "Sabrina Colas",
+      "Alice Dupond",
+      "Vanessa Pons",
+      "Yanis Carron",
+      "Éric Wagner",
+      "Camille Simon",
+      "Eva Thomas",
+      "Michel Barbier",
+      "Alexandre Gautier"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Michel Barbier",
+      "Audrey Benoît",
+      "Sabrina Colas",
+      "Eva Thomas",
+      "Camille Simon",
+      "Timothée Thomas",
+      "Alice Dupond",
+      "Alexandre Gautier",
+      "Éric Wagner",
+      "Yanis Carron",
+      "Vanessa Pons"
+    ]
+  },
+  "capacites": {
+    "Université Sorbonne Nouvelle - Paris 3": 1,
+    "Université du Littoral Côte d'Opale (ULCO)": 1,
+    "Université de Guyane": 1,
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": 1,
+    "Université Polytechnique Hauts-de-France (UPHF)": 1,
+    "Université Clermont Auvergne": 1,
+    "Université de Bretagne Occidentale (UBO)": 1,
+    "Université Paul-Valéry Montpellier 3": 1,
+    "Université de Bordeaux": 1,
+    "Collège de France": 1,
+    "Université Grenoble Alpes (UGA)": 1
+  },
+  "matching_student_optimal": {
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Éric Wagner"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Michel Barbier"
+    ],
+    "Université de Guyane": [
+      "Alice Dupond"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Yanis Carron"
+    ],
+    "Université Polytechnique Hauts-de-France (UPHF)": [
+      "Eva Thomas"
+    ],
+    "Université Clermont Auvergne": [
+      "Audrey Benoît"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Alexandre Gautier"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Vanessa Pons"
+    ],
+    "Université de Bordeaux": [
+      "Camille Simon"
+    ],
+    "Collège de France": [
+      "Timothée Thomas"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Sabrina Colas"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Éric Wagner"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Michel Barbier"
+    ],
+    "Université de Guyane": [
+      "Alice Dupond"
+    ],
+    "Institut National des Sciences Appliquées de Lyon (INSA Lyon)": [
+      "Yanis Carron"
+    ],
+    "Université Polytechnique Hauts-de-France (UPHF)": [
+      "Eva Thomas"
+    ],
+    "Université Clermont Auvergne": [
+      "Audrey Benoît"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Alexandre Gautier"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Vanessa Pons"
+    ],
+    "Université de Bordeaux": [
+      "Camille Simon"
+    ],
+    "Collège de France": [
+      "Timothée Thomas"
+    ],
+    "Université Grenoble Alpes (UGA)": [
+      "Sabrina Colas"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.8986225895316805,
+      "uni": 0.6925619834710743,
+      "global": 0.7955922865013774
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.7234159779614324,
+      "uni": 0.7432506887052341,
+      "global": 0.7333333333333333
+    },
+    "university_optimal": {
+      "etu": 0.7647382920110193,
+      "uni": 0.7746556473829201,
+      "global": 0.7696969696969698
+    }
+  }
+}

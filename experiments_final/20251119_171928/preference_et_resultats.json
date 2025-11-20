@@ -1,0 +1,392 @@
+{
+  "etudiants": {
+    "Jean Gaillard": [
+      "Université de Technologie de Troyes (UTT)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Université Bretagne Sud (UBS)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Université de Guyane",
+      "Institut Catholique de Toulouse (ICT)",
+      "Institut National Universitaire Champollion",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Savoie Mont Blanc (USMB)",
+      "CY Cergy Paris Université"
+    ],
+    "Rose Bertrand": [
+      "Université de Technologie de Troyes (UTT)",
+      "École Normale Supérieure (ENS - PSL)",
+      "CY Cergy Paris Université",
+      "Institut Catholique de Toulouse (ICT)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Université Savoie Mont Blanc (USMB)",
+      "Institut National Universitaire Champollion",
+      "Université de Guyane",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Bretagne Sud (UBS)",
+      "École des Hautes Études en Sciences Sociales (EHESS)"
+    ],
+    "Clara Fournier": [
+      "Institut National Universitaire Champollion",
+      "Université de Guyane",
+      "Université de Bretagne Occidentale (UBO)",
+      "CY Cergy Paris Université",
+      "Université Savoie Mont Blanc (USMB)",
+      "Université de Technologie de Troyes (UTT)",
+      "Institut Catholique de Toulouse (ICT)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Université Bretagne Sud (UBS)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)"
+    ],
+    "Anna Gautier": [
+      "École Normale Supérieure (ENS - PSL)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Bretagne Sud (UBS)",
+      "Institut National Universitaire Champollion",
+      "Université de Technologie de Troyes (UTT)",
+      "Université Savoie Mont Blanc (USMB)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université de Guyane",
+      "Institut Catholique de Toulouse (ICT)",
+      "CY Cergy Paris Université"
+    ],
+    "Nour Lefebvre": [
+      "Université de Technologie de Troyes (UTT)",
+      "Université Savoie Mont Blanc (USMB)",
+      "Université de Guyane",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Institut Catholique de Toulouse (ICT)",
+      "Université de Bretagne Occidentale (UBO)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Institut National Universitaire Champollion",
+      "Université Bretagne Sud (UBS)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "CY Cergy Paris Université"
+    ],
+    "Louis Leroy": [
+      "Institut Catholique de Toulouse (ICT)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Université Savoie Mont Blanc (USMB)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Institut National Universitaire Champollion",
+      "Université Bretagne Sud (UBS)",
+      "CY Cergy Paris Université",
+      "Université de Technologie de Troyes (UTT)",
+      "Université de Guyane",
+      "Université de Bretagne Occidentale (UBO)"
+    ],
+    "Tom Nicolas": [
+      "Institut National Universitaire Champollion",
+      "CY Cergy Paris Université",
+      "Université Savoie Mont Blanc (USMB)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Université Bretagne Sud (UBS)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Institut Catholique de Toulouse (ICT)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université de Technologie de Troyes (UTT)",
+      "Université de Guyane"
+    ],
+    "Yanis Carron": [
+      "Université de Technologie de Troyes (UTT)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Institut National Universitaire Champollion",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université Savoie Mont Blanc (USMB)",
+      "Université de Guyane",
+      "CY Cergy Paris Université",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Université Bretagne Sud (UBS)",
+      "Institut Catholique de Toulouse (ICT)"
+    ],
+    "Sébastien Masson": [
+      "École Normale Supérieure (ENS - PSL)",
+      "Université de Technologie de Troyes (UTT)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Institut Catholique de Toulouse (ICT)",
+      "Université Savoie Mont Blanc (USMB)",
+      "CY Cergy Paris Université",
+      "Institut National Universitaire Champollion",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Bretagne Sud (UBS)",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université de Guyane"
+    ],
+    "Pauline Barbier": [
+      "Université de Guyane",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Institut Catholique de Toulouse (ICT)",
+      "Université Bretagne Sud (UBS)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)",
+      "Université Savoie Mont Blanc (USMB)",
+      "Institut National Universitaire Champollion",
+      "Université de Bretagne Occidentale (UBO)",
+      "Université de Technologie de Troyes (UTT)",
+      "CY Cergy Paris Université",
+      "École Normale Supérieure (ENS - PSL)"
+    ],
+    "Sophie Clément": [
+      "Université de Bretagne Occidentale (UBO)",
+      "École Normale Supérieure (ENS - PSL)",
+      "Université Bretagne Sud (UBS)",
+      "Université de Guyane",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Institut Catholique de Toulouse (ICT)",
+      "CY Cergy Paris Université",
+      "Université Savoie Mont Blanc (USMB)",
+      "Institut National Universitaire Champollion",
+      "Université de Technologie de Troyes (UTT)",
+      "Université Paris-Est Créteil Val-de-Marne (UPEC)"
+    ]
+  },
+  "etablissements": {
+    "Université Savoie Mont Blanc (USMB)": [
+      "Pauline Barbier",
+      "Sophie Clément",
+      "Jean Gaillard",
+      "Rose Bertrand",
+      "Tom Nicolas",
+      "Louis Leroy",
+      "Yanis Carron",
+      "Clara Fournier",
+      "Nour Lefebvre",
+      "Anna Gautier",
+      "Sébastien Masson"
+    ],
+    "École Normale Supérieure (ENS - PSL)": [
+      "Louis Leroy",
+      "Yanis Carron",
+      "Rose Bertrand",
+      "Tom Nicolas",
+      "Clara Fournier",
+      "Sébastien Masson",
+      "Pauline Barbier",
+      "Jean Gaillard",
+      "Nour Lefebvre",
+      "Sophie Clément",
+      "Anna Gautier"
+    ],
+    "Université Paris-Est Créteil Val-de-Marne (UPEC)": [
+      "Nour Lefebvre",
+      "Tom Nicolas",
+      "Anna Gautier",
+      "Rose Bertrand",
+      "Sophie Clément",
+      "Yanis Carron",
+      "Pauline Barbier",
+      "Sébastien Masson",
+      "Jean Gaillard",
+      "Louis Leroy",
+      "Clara Fournier"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Yanis Carron",
+      "Pauline Barbier",
+      "Sophie Clément",
+      "Sébastien Masson",
+      "Rose Bertrand",
+      "Nour Lefebvre",
+      "Louis Leroy",
+      "Anna Gautier",
+      "Tom Nicolas",
+      "Clara Fournier",
+      "Jean Gaillard"
+    ],
+    "Institut National Universitaire Champollion": [
+      "Sophie Clément",
+      "Sébastien Masson",
+      "Clara Fournier",
+      "Louis Leroy",
+      "Yanis Carron",
+      "Rose Bertrand",
+      "Anna Gautier",
+      "Pauline Barbier",
+      "Jean Gaillard",
+      "Nour Lefebvre",
+      "Tom Nicolas"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Clara Fournier",
+      "Pauline Barbier",
+      "Sophie Clément",
+      "Jean Gaillard",
+      "Anna Gautier",
+      "Louis Leroy",
+      "Rose Bertrand",
+      "Tom Nicolas",
+      "Nour Lefebvre",
+      "Sébastien Masson",
+      "Yanis Carron"
+    ],
+    "Université de Technologie de Troyes (UTT)": [
+      "Rose Bertrand",
+      "Jean Gaillard",
+      "Clara Fournier",
+      "Tom Nicolas",
+      "Pauline Barbier",
+      "Anna Gautier",
+      "Nour Lefebvre",
+      "Louis Leroy",
+      "Yanis Carron",
+      "Sophie Clément",
+      "Sébastien Masson"
+    ],
+    "Université de Guyane": [
+      "Jean Gaillard",
+      "Nour Lefebvre",
+      "Tom Nicolas",
+      "Anna Gautier",
+      "Yanis Carron",
+      "Pauline Barbier",
+      "Louis Leroy",
+      "Rose Bertrand",
+      "Clara Fournier",
+      "Sophie Clément",
+      "Sébastien Masson"
+    ],
+    "Institut Catholique de Toulouse (ICT)": [
+      "Clara Fournier",
+      "Sophie Clément",
+      "Jean Gaillard",
+      "Rose Bertrand",
+      "Louis Leroy",
+      "Nour Lefebvre",
+      "Sébastien Masson",
+      "Yanis Carron",
+      "Anna Gautier",
+      "Tom Nicolas",
+      "Pauline Barbier"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Anna Gautier",
+      "Nour Lefebvre",
+      "Pauline Barbier",
+      "Tom Nicolas",
+      "Sophie Clément",
+      "Clara Fournier",
+      "Yanis Carron",
+      "Jean Gaillard",
+      "Sébastien Masson",
+      "Louis Leroy",
+      "Rose Bertrand"
+    ],
+    "CY Cergy Paris Université": [
+      "Rose Bertrand",
+      "Yanis Carron",
+      "Louis Leroy",
+      "Sébastien Masson",
+      "Clara Fournier",
+      "Tom Nicolas",
+      "Pauline Barbier",
+      "Sophie Clément",
+      "Anna Gautier",
+      "Nour Lefebvre",
+      "Jean Gaillard"
+    ]
+  },
+  "capacites": {
+    "Université Savoie Mont Blanc (USMB)": 1,
+    "École Normale Supérieure (ENS - PSL)": 1,
+    "Université Paris-Est Créteil Val-de-Marne (UPEC)": 1,
+    "Université Bretagne Sud (UBS)": 1,
+    "Institut National Universitaire Champollion": 1,
+    "Université de Bretagne Occidentale (UBO)": 1,
+    "Université de Technologie de Troyes (UTT)": 1,
+    "Université de Guyane": 1,
+    "Institut Catholique de Toulouse (ICT)": 1,
+    "École des Hautes Études en Sciences Sociales (EHESS)": 1,
+    "CY Cergy Paris Université": 1
+  },
+  "matching_student_optimal": {
+    "Université Savoie Mont Blanc (USMB)": [
+      "Nour Lefebvre"
+    ],
+    "École Normale Supérieure (ENS - PSL)": [
+      "Yanis Carron"
+    ],
+    "Université Paris-Est Créteil Val-de-Marne (UPEC)": [
+      "Sébastien Masson"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Pauline Barbier"
+    ],
+    "Institut National Universitaire Champollion": [
+      "Clara Fournier"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Sophie Clément"
+    ],
+    "Université de Technologie de Troyes (UTT)": [
+      "Rose Bertrand"
+    ],
+    "Université de Guyane": [
+      "Jean Gaillard"
+    ],
+    "Institut Catholique de Toulouse (ICT)": [
+      "Louis Leroy"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Anna Gautier"
+    ],
+    "CY Cergy Paris Université": [
+      "Tom Nicolas"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université Savoie Mont Blanc (USMB)": [
+      "Tom Nicolas"
+    ],
+    "École Normale Supérieure (ENS - PSL)": [
+      "Louis Leroy"
+    ],
+    "Université Paris-Est Créteil Val-de-Marne (UPEC)": [
+      "Nour Lefebvre"
+    ],
+    "Université Bretagne Sud (UBS)": [
+      "Pauline Barbier"
+    ],
+    "Institut National Universitaire Champollion": [
+      "Sébastien Masson"
+    ],
+    "Université de Bretagne Occidentale (UBO)": [
+      "Clara Fournier"
+    ],
+    "Université de Technologie de Troyes (UTT)": [
+      "Rose Bertrand"
+    ],
+    "Université de Guyane": [
+      "Jean Gaillard"
+    ],
+    "Institut Catholique de Toulouse (ICT)": [
+      "Sophie Clément"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Anna Gautier"
+    ],
+    "CY Cergy Paris Université": [
+      "Yanis Carron"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.8898071625344354,
+      "uni": 0.6484848484848486,
+      "global": 0.769146005509642
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.8082644628099174,
+      "uni": 0.6826446280991736,
+      "global": 0.7454545454545455
+    },
+    "university_optimal": {
+      "etu": 0.6413223140495867,
+      "uni": 0.9019283746556475,
+      "global": 0.7716253443526171
+    }
+  }
+}

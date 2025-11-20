@@ -1,0 +1,339 @@
+{
+  "etudiants": {
+    "Sara Richard": [
+      "Aix-Marseille Université",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Collège de France",
+      "Université de Rouen Normandie",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Jean Moulin Lyon 3",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Paris 2 Panthéon-Assas",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de Reims Champagne-Ardenne (URCA)"
+    ],
+    "Nour Lefebvre": [
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université de Rouen Normandie",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Aix-Marseille Université",
+      "Université Jean Moulin Lyon 3",
+      "Université Paris 2 Panthéon-Assas",
+      "Collège de France"
+    ],
+    "Sébastien Masson": [
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Aix-Marseille Université",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Collège de France",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université Jean Moulin Lyon 3",
+      "Université de Rouen Normandie"
+    ],
+    "Sabrina Colas": [
+      "Collège de France",
+      "Université Paris 2 Panthéon-Assas",
+      "Aix-Marseille Université",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université de Rouen Normandie",
+      "Université Jean Moulin Lyon 3"
+    ],
+    "Olivier Leroux": [
+      "Université de Rouen Normandie",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Collège de France",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Jean Moulin Lyon 3",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Aix-Marseille Université",
+      "Université Paris 2 Panthéon-Assas"
+    ],
+    "Jean Gaillard": [
+      "Université Paris 2 Panthéon-Assas",
+      "Collège de France",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université Jean Moulin Lyon 3",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université de Rouen Normandie",
+      "Aix-Marseille Université"
+    ],
+    "Dylan Boyer": [
+      "Université Paris 2 Panthéon-Assas",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université Jean Moulin Lyon 3",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Collège de France",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université de Rouen Normandie",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Aix-Marseille Université"
+    ],
+    "Raphaël Dupond": [
+      "Collège de France",
+      "Université de Rouen Normandie",
+      "Université Paris 2 Panthéon-Assas",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Aix-Marseille Université",
+      "Université Jean Moulin Lyon 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "École des Hautes Études en Sciences Sociales (EHESS)"
+    ],
+    "Aya Carron": [
+      "Université de Rouen Normandie",
+      "Université Paris 2 Panthéon-Assas",
+      "Université Jean Moulin Lyon 3",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Collège de France",
+      "Aix-Marseille Université",
+      "Conservatoire National des Arts et Métiers (CNAM)",
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Université Sorbonne Nouvelle - Paris 3"
+    ],
+    "Estelle Aubry": [
+      "Université de Reims Champagne-Ardenne (URCA)",
+      "Collège de France",
+      "Université de Rouen Normandie",
+      "Université Jean Moulin Lyon 3",
+      "Aix-Marseille Université",
+      "Université Sorbonne Nouvelle - Paris 3",
+      "Université du Littoral Côte d'Opale (ULCO)",
+      "Université Paris 2 Panthéon-Assas",
+      "École des Hautes Études en Sciences Sociales (EHESS)",
+      "Conservatoire National des Arts et Métiers (CNAM)"
+    ]
+  },
+  "etablissements": {
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Sabrina Colas",
+      "Nour Lefebvre",
+      "Raphaël Dupond",
+      "Dylan Boyer",
+      "Sébastien Masson",
+      "Jean Gaillard",
+      "Olivier Leroux",
+      "Sara Richard",
+      "Estelle Aubry",
+      "Aya Carron"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Jean Gaillard",
+      "Olivier Leroux",
+      "Sara Richard",
+      "Sébastien Masson",
+      "Aya Carron",
+      "Nour Lefebvre",
+      "Dylan Boyer",
+      "Raphaël Dupond",
+      "Estelle Aubry",
+      "Sabrina Colas"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Raphaël Dupond",
+      "Sabrina Colas",
+      "Sara Richard",
+      "Estelle Aubry",
+      "Dylan Boyer",
+      "Nour Lefebvre",
+      "Aya Carron",
+      "Olivier Leroux",
+      "Sébastien Masson",
+      "Jean Gaillard"
+    ],
+    "Université de Reims Champagne-Ardenne (URCA)": [
+      "Dylan Boyer",
+      "Sabrina Colas",
+      "Sara Richard",
+      "Aya Carron",
+      "Estelle Aubry",
+      "Nour Lefebvre",
+      "Raphaël Dupond",
+      "Jean Gaillard",
+      "Sébastien Masson",
+      "Olivier Leroux"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Sabrina Colas",
+      "Sébastien Masson",
+      "Raphaël Dupond",
+      "Jean Gaillard",
+      "Nour Lefebvre",
+      "Aya Carron",
+      "Dylan Boyer",
+      "Estelle Aubry",
+      "Sara Richard",
+      "Olivier Leroux"
+    ],
+    "Aix-Marseille Université": [
+      "Sara Richard",
+      "Sabrina Colas",
+      "Nour Lefebvre",
+      "Raphaël Dupond",
+      "Jean Gaillard",
+      "Estelle Aubry",
+      "Aya Carron",
+      "Sébastien Masson",
+      "Olivier Leroux",
+      "Dylan Boyer"
+    ],
+    "Université de Rouen Normandie": [
+      "Aya Carron",
+      "Sabrina Colas",
+      "Jean Gaillard",
+      "Sara Richard",
+      "Dylan Boyer",
+      "Estelle Aubry",
+      "Nour Lefebvre",
+      "Olivier Leroux",
+      "Raphaël Dupond",
+      "Sébastien Masson"
+    ],
+    "Collège de France": [
+      "Sabrina Colas",
+      "Estelle Aubry",
+      "Dylan Boyer",
+      "Sébastien Masson",
+      "Jean Gaillard",
+      "Olivier Leroux",
+      "Nour Lefebvre",
+      "Sara Richard",
+      "Aya Carron",
+      "Raphaël Dupond"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Estelle Aubry",
+      "Dylan Boyer",
+      "Sara Richard",
+      "Sabrina Colas",
+      "Aya Carron",
+      "Jean Gaillard",
+      "Sébastien Masson",
+      "Olivier Leroux",
+      "Nour Lefebvre",
+      "Raphaël Dupond"
+    ],
+    "Université Jean Moulin Lyon 3": [
+      "Sébastien Masson",
+      "Sara Richard",
+      "Nour Lefebvre",
+      "Olivier Leroux",
+      "Sabrina Colas",
+      "Dylan Boyer",
+      "Jean Gaillard",
+      "Aya Carron",
+      "Estelle Aubry",
+      "Raphaël Dupond"
+    ]
+  },
+  "capacites": {
+    "Conservatoire National des Arts et Métiers (CNAM)": 1,
+    "École des Hautes Études en Sciences Sociales (EHESS)": 1,
+    "Université Sorbonne Nouvelle - Paris 3": 1,
+    "Université de Reims Champagne-Ardenne (URCA)": 1,
+    "Université Paris 2 Panthéon-Assas": 1,
+    "Aix-Marseille Université": 1,
+    "Université de Rouen Normandie": 1,
+    "Collège de France": 1,
+    "Université du Littoral Côte d'Opale (ULCO)": 1,
+    "Université Jean Moulin Lyon 3": 1
+  },
+  "matching_student_optimal": {
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Olivier Leroux"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Nour Lefebvre"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Raphaël Dupond"
+    ],
+    "Université de Reims Champagne-Ardenne (URCA)": [
+      "Dylan Boyer"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Sébastien Masson"
+    ],
+    "Aix-Marseille Université": [
+      "Sara Richard"
+    ],
+    "Université de Rouen Normandie": [
+      "Aya Carron"
+    ],
+    "Collège de France": [
+      "Sabrina Colas"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Jean Gaillard"
+    ],
+    "Université Jean Moulin Lyon 3": [
+      "Estelle Aubry"
+    ]
+  },
+  "matching_university_optimal": {
+    "Conservatoire National des Arts et Métiers (CNAM)": [
+      "Nour Lefebvre"
+    ],
+    "École des Hautes Études en Sciences Sociales (EHESS)": [
+      "Jean Gaillard"
+    ],
+    "Université Sorbonne Nouvelle - Paris 3": [
+      "Raphaël Dupond"
+    ],
+    "Université de Reims Champagne-Ardenne (URCA)": [
+      "Dylan Boyer"
+    ],
+    "Université Paris 2 Panthéon-Assas": [
+      "Sébastien Masson"
+    ],
+    "Aix-Marseille Université": [
+      "Sara Richard"
+    ],
+    "Université de Rouen Normandie": [
+      "Aya Carron"
+    ],
+    "Collège de France": [
+      "Sabrina Colas"
+    ],
+    "Université du Littoral Côte d'Opale (ULCO)": [
+      "Estelle Aubry"
+    ],
+    "Université Jean Moulin Lyon 3": [
+      "Olivier Leroux"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.7493333333333334,
+      "uni": 0.7266666666666668,
+      "global": 0.7380000000000001
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.7493333333333334,
+      "uni": 0.7266666666666668,
+      "global": 0.7380000000000001
+    },
+    "university_optimal": {
+      "etu": 0.6866666666666668,
+      "uni": 0.9133333333333333,
+      "global": 0.8
+    }
+  }
+}

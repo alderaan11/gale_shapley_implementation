@@ -1,0 +1,290 @@
+{
+  "etudiants": {
+    "Jade Renard": [
+      "École Centrale de Nantes",
+      "Sorbonne Université",
+      "Université de Lorraine",
+      "Université Toulouse 1 Capitole",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de Corse Pasquale Paoli",
+      "Université Paul-Valéry Montpellier 3",
+      "CY Cergy Paris Université",
+      "Institut National des Langues et Civilisations Orientales (INALCO)"
+    ],
+    "Marc Bertrand": [
+      "École Centrale de Nantes",
+      "Sorbonne Université",
+      "CY Cergy Paris Université",
+      "Université Paul-Valéry Montpellier 3",
+      "Université Toulouse 1 Capitole",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université de Corse Pasquale Paoli",
+      "Université de Lorraine"
+    ],
+    "Nathan Garcia": [
+      "Université Toulouse 1 Capitole",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Corse Pasquale Paoli",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "École Centrale de Nantes",
+      "CY Cergy Paris Université",
+      "Université de Lorraine",
+      "Sorbonne Université",
+      "Institut National des Langues et Civilisations Orientales (INALCO)"
+    ],
+    "Alice Dupond": [
+      "Université de Lorraine",
+      "Université Toulouse 1 Capitole",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "CY Cergy Paris Université",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "Sorbonne Université",
+      "Université de Corse Pasquale Paoli",
+      "École Centrale de Nantes"
+    ],
+    "Sébastien Masson": [
+      "École Centrale de Nantes",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "Université Paul-Valéry Montpellier 3",
+      "Sorbonne Université",
+      "Université de Lorraine",
+      "CY Cergy Paris Université",
+      "Université Toulouse 1 Capitole",
+      "Université de Corse Pasquale Paoli",
+      "Université de Picardie Jules-Verne (UPJV)"
+    ],
+    "Margaux Laurent": [
+      "Université de Lorraine",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Corse Pasquale Paoli",
+      "Université Toulouse 1 Capitole",
+      "CY Cergy Paris Université",
+      "Sorbonne Université",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "École Centrale de Nantes"
+    ],
+    "Ambre Hubert": [
+      "Université de Lorraine",
+      "Sorbonne Université",
+      "École Centrale de Nantes",
+      "Université Toulouse 1 Capitole",
+      "Université de Corse Pasquale Paoli",
+      "Université Paul-Valéry Montpellier 3",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "CY Cergy Paris Université",
+      "Institut National des Langues et Civilisations Orientales (INALCO)"
+    ],
+    "Clara Fournier": [
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "Université de Lorraine",
+      "École Centrale de Nantes",
+      "Université de Corse Pasquale Paoli",
+      "CY Cergy Paris Université",
+      "Université Toulouse 1 Capitole",
+      "Université Paul-Valéry Montpellier 3",
+      "Sorbonne Université"
+    ],
+    "Gabriel Bernard": [
+      "Université Toulouse 1 Capitole",
+      "Université de Picardie Jules-Verne (UPJV)",
+      "Université Paul-Valéry Montpellier 3",
+      "Institut National des Langues et Civilisations Orientales (INALCO)",
+      "Sorbonne Université",
+      "Université de Corse Pasquale Paoli",
+      "CY Cergy Paris Université",
+      "Université de Lorraine",
+      "École Centrale de Nantes"
+    ]
+  },
+  "etablissements": {
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Clara Fournier",
+      "Gabriel Bernard",
+      "Ambre Hubert",
+      "Nathan Garcia",
+      "Marc Bertrand",
+      "Margaux Laurent",
+      "Alice Dupond",
+      "Sébastien Masson",
+      "Jade Renard"
+    ],
+    "Sorbonne Université": [
+      "Gabriel Bernard",
+      "Nathan Garcia",
+      "Alice Dupond",
+      "Margaux Laurent",
+      "Jade Renard",
+      "Marc Bertrand",
+      "Sébastien Masson",
+      "Clara Fournier",
+      "Ambre Hubert"
+    ],
+    "Institut National des Langues et Civilisations Orientales (INALCO)": [
+      "Marc Bertrand",
+      "Ambre Hubert",
+      "Clara Fournier",
+      "Nathan Garcia",
+      "Gabriel Bernard",
+      "Alice Dupond",
+      "Sébastien Masson",
+      "Margaux Laurent",
+      "Jade Renard"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Gabriel Bernard",
+      "Marc Bertrand",
+      "Ambre Hubert",
+      "Sébastien Masson",
+      "Alice Dupond",
+      "Margaux Laurent",
+      "Clara Fournier",
+      "Jade Renard",
+      "Nathan Garcia"
+    ],
+    "École Centrale de Nantes": [
+      "Sébastien Masson",
+      "Nathan Garcia",
+      "Marc Bertrand",
+      "Clara Fournier",
+      "Gabriel Bernard",
+      "Margaux Laurent",
+      "Ambre Hubert",
+      "Alice Dupond",
+      "Jade Renard"
+    ],
+    "CY Cergy Paris Université": [
+      "Marc Bertrand",
+      "Ambre Hubert",
+      "Nathan Garcia",
+      "Gabriel Bernard",
+      "Margaux Laurent",
+      "Jade Renard",
+      "Clara Fournier",
+      "Sébastien Masson",
+      "Alice Dupond"
+    ],
+    "Université Toulouse 1 Capitole": [
+      "Clara Fournier",
+      "Marc Bertrand",
+      "Ambre Hubert",
+      "Jade Renard",
+      "Alice Dupond",
+      "Nathan Garcia",
+      "Gabriel Bernard",
+      "Margaux Laurent",
+      "Sébastien Masson"
+    ],
+    "Université de Lorraine": [
+      "Margaux Laurent",
+      "Nathan Garcia",
+      "Sébastien Masson",
+      "Clara Fournier",
+      "Ambre Hubert",
+      "Jade Renard",
+      "Gabriel Bernard",
+      "Alice Dupond",
+      "Marc Bertrand"
+    ],
+    "Université de Corse Pasquale Paoli": [
+      "Alice Dupond",
+      "Jade Renard",
+      "Gabriel Bernard",
+      "Clara Fournier",
+      "Ambre Hubert",
+      "Sébastien Masson",
+      "Nathan Garcia",
+      "Margaux Laurent",
+      "Marc Bertrand"
+    ]
+  },
+  "capacites": {
+    "Université de Picardie Jules-Verne (UPJV)": 1,
+    "Sorbonne Université": 1,
+    "Institut National des Langues et Civilisations Orientales (INALCO)": 1,
+    "Université Paul-Valéry Montpellier 3": 1,
+    "École Centrale de Nantes": 1,
+    "CY Cergy Paris Université": 1,
+    "Université Toulouse 1 Capitole": 1,
+    "Université de Lorraine": 1,
+    "Université de Corse Pasquale Paoli": 1
+  },
+  "matching_student_optimal": {
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Clara Fournier"
+    ],
+    "Sorbonne Université": [
+      "Jade Renard"
+    ],
+    "Institut National des Langues et Civilisations Orientales (INALCO)": [
+      "Alice Dupond"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Gabriel Bernard"
+    ],
+    "École Centrale de Nantes": [
+      "Sébastien Masson"
+    ],
+    "CY Cergy Paris Université": [
+      "Marc Bertrand"
+    ],
+    "Université Toulouse 1 Capitole": [
+      "Ambre Hubert"
+    ],
+    "Université de Lorraine": [
+      "Margaux Laurent"
+    ],
+    "Université de Corse Pasquale Paoli": [
+      "Nathan Garcia"
+    ]
+  },
+  "matching_university_optimal": {
+    "Université de Picardie Jules-Verne (UPJV)": [
+      "Clara Fournier"
+    ],
+    "Sorbonne Université": [
+      "Nathan Garcia"
+    ],
+    "Institut National des Langues et Civilisations Orientales (INALCO)": [
+      "Alice Dupond"
+    ],
+    "Université Paul-Valéry Montpellier 3": [
+      "Gabriel Bernard"
+    ],
+    "École Centrale de Nantes": [
+      "Sébastien Masson"
+    ],
+    "CY Cergy Paris Université": [
+      "Marc Bertrand"
+    ],
+    "Université Toulouse 1 Capitole": [
+      "Ambre Hubert"
+    ],
+    "Université de Lorraine": [
+      "Margaux Laurent"
+    ],
+    "Université de Corse Pasquale Paoli": [
+      "Jade Renard"
+    ]
+  },
+  "scores": {
+    "student_optimal_initial": {
+      "etu": 0.7703703703703705,
+      "uni": 0.7950617283950617,
+      "global": 0.7827160493827161
+    },
+    "student_optimal_equilibre": {
+      "etu": 0.7703703703703705,
+      "uni": 0.7950617283950617,
+      "global": 0.7827160493827161
+    },
+    "university_optimal": {
+      "etu": 0.7037037037037037,
+      "uni": 0.8740740740740741,
+      "global": 0.788888888888889
+    }
+  }
+}

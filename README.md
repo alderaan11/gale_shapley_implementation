@@ -26,7 +26,7 @@ This project explores **stable matching problems** in the context of student-uni
 │   ├── frustration.py          # Frustration-based metrics
 │   ├── regret.py               # Regret-based optimality metrics
 │   ├── top_k.py                # Top-K satisfaction scoring
-│   ├── rotation_poset.py       # Stable matching enumeration
+│   ├── swine.py                # Swine transformation
 │   ├── visualisation.py        # Plotting and analysis functions
 │   └── utils.py                # Utility functions for JSON loading
 ├── data/
@@ -128,6 +128,10 @@ Results saved to: ./results_rapport/20251119_171111/preference_et_resultats.json
 $ python src/visualisation.py
 [Graphs made from the results repertory will pop on the screen ]
 
+
+
+$ python src/swing.py
+[To transform unstable matching into a stable one with better satisfaction]
 ```
 
 ### Output Files

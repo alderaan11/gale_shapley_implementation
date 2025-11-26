@@ -1,0 +1,113 @@
+{
+  "preferences": {
+    "etudiants": {
+      "i1": [
+        "s2",
+        "s1",
+        "s3"
+      ],
+      "i3": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "i2": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "etablissements": {
+      "s1": [
+        "i1",
+        "i3",
+        "i2"
+      ],
+      "s3": [
+        "i2",
+        "i1",
+        "i3"
+      ],
+      "s2": [
+        "i2",
+        "i1",
+        "i3"
+      ]
+    },
+    "capacites": {
+      "Université Bretagne Sud (UBS)": 1,
+      "Avignon Université": 1,
+      "Institut Catholique de Toulouse (ICT)": 1
+    }
+  },
+  "matchings": {
+    "etudiant_optimal": {
+      "i1": "s1",
+      "i3": "s3",
+      "i2": "s2"
+    },
+    "universite_optimal": {
+      "i1": "s1",
+      "i3": "s3",
+      "i2": "s2"
+    },
+    "swing": {
+      "i1": "s1",
+      "i3": "s3",
+      "i2": "s2"
+    }
+  },
+  "scores": {
+    "student_optimal": {
+      "score_final": 0.7216666666666667,
+      "topk_global": 0.6666666666666666,
+      "satisfaction_croisee": 0.5,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 0.0,
+        "topk_uni": 0.6666666666666666,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    },
+    "university_optimal": {
+      "score_final": 0.7216666666666667,
+      "topk_global": 0.6666666666666666,
+      "satisfaction_croisee": 0.5,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 0.0,
+        "topk_uni": 0.6666666666666666,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    },
+    "swing": {
+      "score_final": 0.7216666666666667,
+      "topk_global": 0.6666666666666666,
+      "satisfaction_croisee": 0.5,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 0.0,
+        "topk_uni": 0.6666666666666666,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    }
+  }
+}

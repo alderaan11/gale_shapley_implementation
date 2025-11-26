@@ -1,0 +1,91 @@
+{
+  "preferences": {
+    "etudiants": {
+      "i1": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "i3": [
+        "s2",
+        "s1",
+        "s3"
+      ],
+      "i2": [
+        "s1",
+        "s3",
+        "s2"
+      ]
+    },
+    "etablissements": {
+      "s1": [
+        "i3",
+        "i2",
+        "i1"
+      ],
+      "s3": [
+        "i2",
+        "i1",
+        "i3"
+      ],
+      "s2": [
+        "i1",
+        "i3",
+        "i2"
+      ]
+    },
+    "capacites": {
+      "Université des Antilles": 1,
+      "Université de Perpignan Via Domitia": 1,
+      "Sorbonne Université": 1
+    }
+  },
+  "matchings": {
+    "etudiant_optimal": {
+      "i1": "s2",
+      "i3": "s1",
+      "i2": "s3"
+    },
+    "universite_optimal": {
+      "i1": "s2",
+      "i3": "s1",
+      "i2": "s3"
+    }
+  },
+  "scores": {
+    "student_optimal": {
+      "score_final": 0.9175,
+      "topk_global": 1.0,
+      "satisfaction_croisee": 0.75,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 0.0,
+        "topk_uni": 1.0,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    },
+    "university_optimal": {
+      "score_final": 0.9175,
+      "topk_global": 1.0,
+      "satisfaction_croisee": 0.75,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 0.0,
+        "topk_uni": 1.0,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "preferences": {
+    "etudiants": {
+      "Charlotte Robin": [
+        "École Normale Supérieure (ENS - PSL)",
+        "Institut Catholique de Toulouse (ICT)",
+        "Université Côte d'Azur"
+      ],
+      "Margot Dupuis": [
+        "Institut Catholique de Toulouse (ICT)",
+        "Université Côte d'Azur",
+        "École Normale Supérieure (ENS - PSL)"
+      ],
+      "Eva Thomas": [
+        "Université Côte d'Azur",
+        "École Normale Supérieure (ENS - PSL)",
+        "Institut Catholique de Toulouse (ICT)"
+      ]
+    },
+    "etablissements": {
+      "Université Côte d'Azur": [
+        "Margot Dupuis",
+        "Eva Thomas",
+        "Charlotte Robin"
+      ],
+      "Institut Catholique de Toulouse (ICT)": [
+        "Margot Dupuis",
+        "Charlotte Robin",
+        "Eva Thomas"
+      ],
+      "École Normale Supérieure (ENS - PSL)": [
+        "Eva Thomas",
+        "Charlotte Robin",
+        "Margot Dupuis"
+      ]
+    },
+    "capacites": {
+      "Université Côte d'Azur": 1,
+      "Institut Catholique de Toulouse (ICT)": 1,
+      "École Normale Supérieure (ENS - PSL)": 1
+    }
+  },
+  "matchings": {
+    "etudiant_optimal": {
+      "Charlotte Robin": "École Normale Supérieure (ENS - PSL)",
+      "Margot Dupuis": "Institut Catholique de Toulouse (ICT)",
+      "Eva Thomas": "Université Côte d'Azur"
+    },
+    "universite_optimal": {
+      "Charlotte Robin": "École Normale Supérieure (ENS - PSL)",
+      "Margot Dupuis": "Institut Catholique de Toulouse (ICT)",
+      "Eva Thomas": "Université Côte d'Azur"
+    },
+    "swing": {
+      "Charlotte Robin": "École Normale Supérieure (ENS - PSL)",
+      "Margot Dupuis": "Institut Catholique de Toulouse (ICT)",
+      "Eva Thomas": "Université Côte d'Azur"
+    }
+  },
+  "scores": {
+    "student_optimal": {
+      "score_final": 0.7183333333333334,
+      "topk_global": 0.3333333333333333,
+      "satisfaction_croisee": 0.8333333333333334,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 1.0,
+        "topk_uni": 0.3333333333333333,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    },
+    "university_optimal": {
+      "score_final": 0.7183333333333334,
+      "topk_global": 0.3333333333333333,
+      "satisfaction_croisee": 0.8333333333333334,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 1.0,
+        "topk_uni": 0.3333333333333333,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    },
+    "swing": {
+      "score_final": 0.7183333333333334,
+      "topk_global": 0.3333333333333333,
+      "satisfaction_croisee": 0.8333333333333334,
+      "regret_global": 0.0,
+      "optimality": 1.0,
+      "details": {
+        "k": 1,
+        "topk_etu": 1.0,
+        "topk_uni": 0.3333333333333333,
+        "r_etu": 0.0,
+        "r_uni": 0.0,
+        "alpha": 0.34,
+        "beta": 0.33,
+        "gamma": 0.33
+      }
+    }
+  }
+}

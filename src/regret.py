@@ -1,58 +1,83 @@
-from pathlib import Path
-from typing import List, Dict
+from typing import Dict, List
 
-def regret_etudiants(matching, matching_ideal, prefs_etus):
-    assign = {etu: uni for uni, etus in matching.items() for etu in etus}
-    assign_ideal = {etu: uni for uni, etus in matching_ideal.items() for etu in etus}
 
+# ------------------------------------------------------------
+# REGRET ÉTUDIANTS
+# ------------------------------------------------------------
+def regret_etudiants(matching: Dict[str, str],
+                     matching_ideal_etu: Dict[str, str],
+                     prefs_etus: Dict[str, List[str]]) -> float:
     regrets = []
 
     for etu, prefs in prefs_etus.items():
         n = len(prefs)
 
-        uni = assign.get(etu)
+        # affectation réelle
+        uni = matching.get(etu)
         rank = prefs.index(uni) if uni in prefs else n - 1
 
-        ideal_uni = assign_ideal.get(etu)
+        # affectation dans matching optimal étudiant
+        ideal_uni = matching_ideal_etu.get(etu)
         ideal_rank = prefs.index(ideal_uni) if ideal_uni in prefs else n - 1
 
         regret = (rank - ideal_rank) / (n - 1)
-
         regrets.append(regret)
 
     return sum(regrets) / len(regrets)
 
 
-
-def regret_universites(matching, matching_ideal, prefs_unis):
+# ------------------------------------------------------------
+# REGRET UNIVERSITÉS
+# ------------------------------------------------------------
+def regret_universites(matching: Dict[str, str],
+                       matching_ideal_uni: Dict[str, str],
+                       prefs_unis: Dict[str, List[str]]) -> float:
     regrets = []
+    # print(matching_ideal_uni)
+
+    # reconstruire : université → étudiant
+    uni_to_etu = {}
+    uni_to_etu_ideal = {}
+
+    for etu, uni in matching.items():
+        uni_to_etu[uni] = etu
+
+    for etu, uni in matching_ideal_uni.items():
+        uni_to_etu_ideal[uni] = etu
 
     for uni, prefs in prefs_unis.items():
         n = len(prefs)
 
-        accepted = matching.get(uni, [])
-        accepted_ideal = matching_ideal.get(uni, [])
+        etu = uni_to_etu.get(uni)
+        ideal_etu = uni_to_etu_ideal.get(uni)
 
-        rank = max((prefs.index(s) for s in accepted), default=n - 1)
-        rank_opt = max((prefs.index(s) for s in accepted_ideal), default=n - 1)
+        rank = prefs.index(etu) if etu in prefs else n - 1
+        ideal_rank = prefs.index(ideal_etu) if ideal_etu in prefs else n - 1
 
-        regret = (rank - rank_opt) / (n - 1)
+        regret = (rank - ideal_rank) / (n - 1)
         regrets.append(regret)
 
     return sum(regrets) / len(regrets)
 
 
-def regret_global(
-    matching: Dict[str, List[str]],
-    matching_ideal_uni: Dict[str, List[str]],
-    prefs_etus: Dict[str, List[str]],
-    prefs_unis: Dict[str, List[str]]
-):
-    r_etu = regret_etudiants(matching, matching, prefs_etus)
-    r_uni = regret_universites(matching, matching_ideal_uni, prefs_unis)
+# ------------------------------------------------------------
+# REGRET GLOBAL
+# ------------------------------------------------------------
+def regret_global(matching: Dict[str, str],
+                  matching_ideal_etu: Dict[str, str],
+                  matching_ideal_uni: Dict[str, str],
+                  prefs_etus: Dict[str, List[str]],
+                  prefs_unis: Dict[str, List[str]]):
 
-    print(r_etu)
-    print(r_uni)
-    
 
+
+    r_etu = regret_etudiants(matching,
+                             matching_ideal_etu,
+                             prefs_etus)
+
+    r_uni = regret_universites(matching,
+                               matching_ideal_uni,
+                               prefs_unis)
+
+    # print((r_etu, r_uni, (r_etu + r_uni) / 2))
     return (r_etu, r_uni, (r_etu + r_uni) / 2)

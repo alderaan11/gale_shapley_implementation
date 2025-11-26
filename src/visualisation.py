@@ -179,7 +179,7 @@ def main():
 
     sns.set(style="darkgrid", context="talk")  
 
-    result_path = Path("./results_rapport/")
+    result_path = Path("./results_swing")
     records = []
 
 
@@ -331,6 +331,64 @@ def main():
     plt.tight_layout()
     plt.show()
 
+    df_mean = df.groupby(["alpha", "beta", "gamma", "k"]).agg(
+    score_moyen=("score_final", "mean"),
+    count=("score_final", "count")
+    ).reset_index()
+
+    plt.figure(figsize=(12, 7))
+
+    plt.scatter(
+        df_mean["alpha"],
+        df_mean["score_moyen"],
+        s=200,
+        c=df_mean["k"],
+        cmap="magma",
+        alpha=0.8
+    )
+
+    plt.xlabel("alpha")
+    plt.ylabel("Score moyen")
+    plt.title("Score moyen par combinaison")
+    plt.colorbar(label="k")
+
+    # --- 🔍 Ajouter l’annotation (alpha, beta, gamma, k) ---
+    for _, row in df_mean.iterrows():
+        label = f"a={row.alpha:.2f}\nb={row.beta:.2f}\ng={row.gamma:.2f}\nk={int(row.k)}"
+        plt.annotate(
+            label,
+            (row.alpha, row.score_moyen),
+            textcoords="offset points",
+            xytext=(5, 5),     # Décalage pour lire le texte
+            ha="left",
+            fontsize=8
+        )
+
+    plt.tight_layout()
+    plt.show()
+
+    plt.figure(figsize=(12, 6))
+
+    params = ["alpha", "beta", "gamma", "k"]
+
+    means = [
+        df_mean.groupby(p)["score_moyen"].mean().mean()
+        for p in params
+    ]
+
+    plt.bar(params, means, color=["#ff6f61", "#6b5b95", "#88b04b", "#f7cac9"])
+
+    plt.ylabel("Score final moyen")
+    plt.title("Influence moyenne des paramètres sur le score final")
+    plt.grid(axis="y", alpha=0.3)
+    plt.show()
+
+    df_corr = df_mean[["alpha", "beta", "gamma", "k", "score_moyen"]]
+
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(df_corr.corr(), annot=True, cmap="coolwarm", vmin=-1, vmax=1)
+    plt.title("Corrélation entre paramètres et score final")
+    plt.show()
 
 if __name__ == "__main__":
     app()
